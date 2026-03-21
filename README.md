@@ -1,5 +1,6 @@
 Quantitative Framework for Middle Persian Syntax
 This repository contains some of the most relevant computational infrastructure, data-driven analysis, and preliminary grammar chapters for the syntax of Zoroastrian Middle Persian. It serves as a technical companion for reviewers and researchers.
+
 📂 Repository Structure
 1. Research Notebooks (Jupyter)
 These notebooks provide a transparent, step-by-step view of the statistical transformations and visualization logic:
@@ -20,5 +21,7 @@ This repository is part of a broader study on the transition from synthetic to a
 Paper Repository: MiddlePersian-NounPhrase-Classes
 Publication: Head Directionality and the Ezafe Marking in Middle Persian Noun Phrase: A Corpus-Based Approach. (Submitted to International Journal of Corpus Linguistics).
 DOI: 10.5281/zenodo.19113772
+
+
 💡 Reproducibility
 All scripts and notebooks are designed to be forward-compatible. They are based on the stabilized snapshot of the MPCD (Sept 2024) but are configured to be re-run on new versions of the corpus after text imports or annotation modifications.
