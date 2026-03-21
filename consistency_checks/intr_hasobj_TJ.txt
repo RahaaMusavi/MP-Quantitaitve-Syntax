@@ -1,0 +1,16 @@
+Lemma: dāštan, Newpart: dd_ch4_sec3, sentence_id: dd-k35:97, Sentence: ka nē pad andōh ud saxtīh abāyēd hangārd ēg =iš aziš paydāgīhēd kū =š pad ān pāddāšn ān and āsānīh rāmišn bē ō ruwān rasēd čiyōn nē kas az ān saxtīh ud dušxwārīh ī =š pad hāwand ān kirbag abar mad az ān čiyōn dēn weh ōstīgān dāšt menēd ud stāyēd
+Lemma: menīdan, Newpart: dd_ch5_sec6, sentence_id: dd-k35:109, Sentence: ud ēn =iz ast kū , wehān tars ī az dard ud pādifrāh ī az dušox rāy āsānīh ud xwārīh ī pad gētī hilēnd tis =iz abārōnīh nē menēd ud gōwēd ud kunēd ud ēmēd ī ō ān āsānīh ud rāmišn ī pad wahišt rāy was ranǰ tars pad frārōnīhwarzīdārīh ī pad menišn gōwišn kunišn kāmagīhā ō grīw padīrēnd
+Lemma: nigerīdan, Newpart: dk5_ch24_sec21, sentence_id: dk5-b:364, Sentence: kē zāyišn ī dēwān škeft sahēd fradom čiyōnīh nigerišn ī kadāmagāniz zāyišn kū mādayān abzāyišn ī az gyāg tā ēn kū dēwān harrōbišn ō ānōh wēš kū adādīhā ud anēwēnīh mehmāntar hupaydāg
+Lemma: paydāgēnīdan, Newpart: ch24_sec8, sentence_id: dmx-l19:164, Sentence: bē yazadān , ān baxšišn ēd rāy kem kunēnd ud mēnōy kem paydāgēnēnd čē ahriman ī druwand pad nērōg ī haft abāxtar xwāstag ud abārīg =iz harw nēkīh ī gētī az wehān ud arzānīgān apparēnd ud wattarān ud anarzānīgān abēr baxšēnd ,
+Lemma: abgārīhistan, Newpart: gbd_ch1_sec21, sentence_id: gbd-td1:40, Sentence: u -š čim ēn kū agar ardīg nē sārēnē xwad nē agār -ā ud ō -mān harwdōān sūd abgārīhā
+Lemma: būdan, Newpart: gbd_ch1_sec36, sentence_id: gbd-td1:62, Sentence: ka -š dahišnīh menīd čē -š az dāmdahišnīh xwadāyīh būd u -š dīd pad rōšnwēnāgīh ohrmazd kū ganāgmēnōy hagriz az petyāragīh nē wardēd ān ī petyāragīh ǰud pad dāmdahišnīh nē agārīhēd dām ǰud pad zamān rawāgīh nē bawēd ka zamān brēhēnēd dām -iz ī , ahriman , rawāg be bawēd
+Lemma: dawīdan, Newpart: gbd_ch4_sec8, sentence_id: gbd-td1:333, Sentence: u -š dawīd gālīh andar mān be nišīnam
+Lemma: dawīdan, Newpart: gbd_ch4_sec9, sentence_id: gbd-td1:334, Sentence: u -š dawīd ganāgmēnōy kū čē tis xwāstan ō tō nē gōwēm čē abēsūd ud wad dānē xwāstan
+Lemma: zandīdan, Newpart: 6c.1, sentence_id: gbd-td1:518, Sentence: čiyōn ganāgmēnōy andar dwārist zamīg be zandīd ān gōhr ī kōf ī andar zamīg dād estād pad X ham zamān kōf ō rawišn estād nazdist harborz baγbaxt pas abārīg kōfān mayān ī zamīg abar
+Lemma: abgandan, Newpart: gbd_ch9_sec23, sentence_id: gbd-td1:645, Sentence: u -š imrōz šahr rāmpērōz bēwar šahrestān abar abgand estēd
+Lemma: widardan, Newpart: 11a.1, sentence_id: gbd-td1:729, Sentence: arand rōd ān ī guft kū az harborz bē āyēd pad sūrag būm kē šam -iz xwānēnd ud pad yegiptos būm kē misr -iz xwānēnd bē widerēd
+Lemma: rēxtan, Newpart: 11c.1, sentence_id: gbd-td1:776, Sentence: ēn -iz gōwēd kū ēn se rōd marw rōd hēdōmand rōd ahunsand būd hēnd mēnōy awēšān kū andar gēhān nē tazēnd az anāgīh āhōgēnišn , armēštīh ī -šān dīd kū -šān andar ēbgatīh hōm ud zōhr awiš rēzēd ud drust abāz kunēd ud pahrēz bē gōwēd X X , ,
+Lemma: kirdan, Newpart: gbd_ch14_sec11, sentence_id: gbd-td1:899, Sentence: kār ī dādestān bowandagmenišnīh kunēd
+Lemma: menīdan, Newpart: gbd_ch14_sec11, sentence_id: gbd-td1:900, Sentence: humat menēd hūxt gōwēd ud huwaršt warzēd
+Lemma: yaštan, Newpart: gbd_ch14_sec11, sentence_id: gbd-td1:901, Sentence: dēwān ma yazēd
+Lemma: kirdan, Newpart: gbd_ch14_sec32, sentence_id: gbd-td1:950, Sentence: hamē brād xwah zan kird

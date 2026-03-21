@@ -1,0 +1,4 @@
+Sentence with root token ID 10 ('xēm'), mark dependent: ['ī'], newpart: dk7_ch1_sec4
+Sentence with root token ID 1 ('guft'), mark dependent: ['kū'], sent id: zwy-k43:19, newpar zwy_ch3_sec3
+Sentence with root token ID 3 ('guft'), mark dependent: ['kū'], sent id: zwy-k43:25, newpar zwy_ch3_sec6
+Sentence with root token ID 14 ('wurrōyēd'), mark dependent: ['kē'], sent id: zwy-k43:88, newpar zwy_ch4_sec31

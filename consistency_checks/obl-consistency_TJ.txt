@@ -1,0 +1,83 @@
+
+ADV as obl
+    Lemma: padiš, Newpart: dd_ch5_sec7
+    Lemma: did, Newpart: dd_ch8_sec1
+    Lemma: did, Newpart: dd_ch8_sec2
+    Lemma: awiš, Newpart: dd_ch17_sec3
+    Lemma: awiš, Newpart: dd_ch17_sec3
+    Lemma: awiš, Newpart: dd_ch17_sec3
+    Lemma: fradom, Newpart: dk5_ch5_sec10
+    Lemma: dudīgar, Newpart: dk5_ch5_sec10
+    Lemma: sidīgar, Newpart: dk5_ch5_sec10
+    Lemma: čahārom, Newpart: dk5_ch5_sec10
+    Lemma: nē-pādixšāy-īhā, Newpart: dk5_ch16_sec3
+    Lemma: ēdar, Newpart: 5.24.19b
+    Lemma: nūn, Newpart: ch1_sec28
+    Lemma: ōy, Newpart: ch16_sec49
+    Lemma: ul, Newpart: gbd_ch1_sec43
+    Lemma: abar, Newpart: gbd_ch1_sec57
+    Lemma: andar, Newpart: 1a.6
+    Lemma: abar, Newpart: gbd_ch2_sec9
+    Lemma: ham-ēwēnag, Newpart: gbd_ch3_sec7
+    Lemma: pas, Newpart: 5b.2
+    Lemma: ānōh, Newpart: 5b.7
+    Lemma: ānōh, Newpart: 5b.8
+    Lemma: azēr, Newpart: 5b.16
+    Lemma: ānōh, Newpart: 5b.20
+    Lemma: ham, Newpart: gbd_ch7_sec4
+    Lemma: ham, Newpart: gbd_ch7_sec7
+    Lemma: azabar, Newpart: gbd_ch7_sec9
+    Lemma: abāz, Newpart: gbd_ch7_sec9
+    Lemma: azabar, Newpart: gbd_ch7_sec9
+    Lemma: padiš, Newpart: gbd_ch7_sec12
+    Lemma: ānōh, Newpart: gbd_ch10_sec5
+    Lemma: nazd, Newpart: gbd_ch10_sec18
+    Lemma: ānōh, Newpart: 11a.19
+    Lemma: bērōn, Newpart: gbd_ch12_sec7
+    Lemma: bērōn, Newpart: gbd_ch15_sec14
+    Lemma: kišwar, Newpart: gbd_ch16_sec4
+    Lemma: āgenēn, Newpart: gbd_ch17_sec26
+
+
+DET as obl:
+    Lemma: ān, Newpart: dd_ch7_sec6
+    Lemma: ān, Newpart: dk5_ch24_sec13#
+    Lemma: ān, Newpart: 1a.10
+    Lemma: ōy, Newpart: gbd_ch4_sec4
+    Lemma: hamāg, Newpart: 6d.2
+    Lemma: ān, Newpart: gbd_ch14_sec21
+
+
+VERB as obl:
+    Lemma: framāyišn, Newpart: dd_ch8_sec2
+    Lemma: framāyišn, Newpart: dd_ch8_sec3
+    Lemma: hāxtan, Newpart: dk5_ch2_sec8
+    Lemma: wānīdan, Newpart: dk5_ch8_sec11
+    Lemma: burdan, Newpart: dk5_ch21_sec4
+    Lemma: passāxtan, Newpart: dk5_ch22_sec5
+    Lemma: kirdan, Newpart: ch15_sec33
+    Lemma: wizōstan, Newpart: ch16_sec25
+    Lemma: ōzanišn, Newpart: ch21_sec25
+    Lemma: kirdan, Newpart: gbd_ch1_sec31
+    Lemma: kirdan, Newpart: gbd_ch1_sec37
+    Lemma: zadan, Newpart: 1a.4
+    Lemma: xwardan, Newpart: gbd_ch4_sec20
+    Lemma: burdan, Newpart: 6b.8
+    Lemma: madan, Newpart: 6f.3
+    Lemma: šāyistan, Newpart: gbd_ch13_sec30
+    Lemma: dwāristan, Newpart: 14b.3
+    Lemma: madan, Newpart: gbd_ch16_sec1
+
+
+SCONJ as obl:
+    Lemma: kē, Newpart: 5.24.19b
+    Lemma: kē, Newpart: ch16_sec23
+    Lemma: kē, Newpart: ch16_sec24
+    Lemma: kē, Newpart: gbd_ch1_sec5
+
+
+ADP as obl
+    Lemma: homānāg, Newpart: 1a.10
+
+
+

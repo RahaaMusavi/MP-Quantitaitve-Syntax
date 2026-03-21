@@ -1,0 +1,40 @@
+ADV:
+    Lemma: nūn, Newpart: mpcd-nm1_ch1_sec3
+    Lemma: nūn, Newpart: mpcd-nm2_ch1_sec3
+    Lemma: ēr, Newpart: mpcd-nm2_ch2_sec6
+    Lemma: mayān, Newpart: rfs_ch1_sec6
+
+VERB:
+    Lemma: handāxtan, Newpart: mpcd-nm2_ch5_sec4
+    Lemma: pādan, Newpart: mpcd-nm3_ch1_sec2
+    Lemma: kirdan, Newpart: mpcd-nm3_ch1_sec5
+
+DET:
+    Lemma: ān, Newpart: mpcd-nm1_ch2_sec2
+    Lemma: ēn, Newpart: mpcd-nm1_ch2_sec3
+    Lemma: ān, Newpart: mpcd-nm2_ch1_sec14
+    Lemma: ān, Newpart: mpcd-nm2_ch1_sec15
+    Lemma: ān, Newpart: mpcd-nm2_ch1_sec16
+    Lemma: ēn, Newpart: mpcd-nm2_ch1_sec17
+    Lemma: ān, Newpart: mpcd-nm2_ch2_sec1
+    Lemma: ēn, Newpart: mpcd-nm2_ch2_sec3
+    Lemma: ān, Newpart: mpcd-nm2_ch2_sec3
+    Lemma: ān, Newpart: mpcd-nm2_ch2_sec4
+    Lemma: ān, Newpart: mpcd-nm2_ch2_sec4
+    Lemma: ēn, Newpart: mpcd-nm2_ch2_sec6
+    Lemma: ān, Newpart: mpcd-nm2_ch2_sec6
+    Lemma: ān, Newpart: mpcd-nm2_ch3_sec1
+    Lemma: ōy, Newpart: mpcd-nm2_ch3_sec1
+    Lemma: ān, Newpart: mpcd-nm2_ch3_sec2
+    Lemma: ān, Newpart: mpcd-nm2_ch3_sec3
+    Lemma: ān, Newpart: mpcd-nm2_ch6_sec2
+    Lemma: ān, Newpart: mpcd-nm2_ch9_sec3
+    Lemma: ān, Newpart: mpcd-nm3_ch1_sec4
+
+
+ADP:
+    Lemma: ōy, Newpart: raf_ch10_sec1
+
+
+PART:
+    Lemma: nōit̰, Newpart: mpcd-nm2_ch6_sec2

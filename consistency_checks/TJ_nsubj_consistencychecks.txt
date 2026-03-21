@@ -1,0 +1,72 @@
+Subject UPOS: DET, Subject Form: ān | Newpart: dd_ch6_sec2 | Sentence id: dd-k35:116 | Text: ud ān ī winnārišn bawēd az spurrpādixšā ī dādār apādixšā druz
+Subject UPOS: DET, Subject Form: ān | Newpart: dd_ch8_sec3 | Sentence id: dd-k35:139 | Text: ud andar ēkānag ī kirbag ān mādagwartar ī xwad ud pad xwēš ranǰ warzēd pas az ān az xwēš =iz pad xwēš , framāyišn rawāgēnēd ī pas az xwēš rāy handarzēnēd framāyēd bē ō rawāgīh rasēd ud pastar ān ī kas ōy rāy kunēnd
+Subject UPOS: ADV, Subject Form: tēzsōgīhā | Newpart: dd_ch20_sec5 | Sentence id: dd-k35:150 | Text: čiyōn ān puhl dār homānāg ī was pahlūg kē =š pušt ast ī frāx ud ast ī bārīk ī tēz X u =š frāxsōgīhā ast ēdōn wuzurg ī =š wīsthaft nāy pahnāy u =š tēzsōgīhā ēdōn tund ī pad bārīkīh ēdōn čiyōn , awestarag tēx ud ka ahlawān ud druwandān ruwān rasēnd ō ān sōg ī =šān niyābīhā ast gardēd pad wuzurg xwarrah dādār , ud framān ī ōy ī rāstāmār puhlbān ahlawān frāxpuhlīh bawēd and čand nō nēzag bālāy ud drahnāy kē =š ǰud ǰud dērandīh se nāy , ud druwandān tundpuhlīh bawēd ī tā =z hangōšīdag ī ān ī awestarag tēx
+Subject UPOS: SCONJ, Subject Form: ī | Newpart: dd_ch3_sec3 | Sentence id: dd-k35:92 | Text: u =š hamōšmur dēn kē =š dād xwēšēnišn dahibed windišn ast ī wardēnišn kē hutāšīd frašegird
+Subject UPOS: DET, Subject Form: ān | Newpart: dk5_ch18_sec3 | Sentence id: dk5-b:150 | Text: ān ēč ēwēnag nē X tā pad kunišnīh čim
+Subject UPOS: VERB, Subject Form: šustan | Newpart: dk5_ch23_sec27 | Sentence id: dk5-b:262 | Text: ud dast pad gōmēz ud tarrag šustan čim ,
+Subject UPOS: VERB, Subject Form: andarhištan | Newpart: dk5_ch24_sec7 | Sentence id: dk5-b:289 | Text: ud pēš az ān zamān bērōn nē kirdan čim ēk awišōbišnīh ham hufrazāmkārīh kē rāy andarhištan =iz čim ,
+Subject UPOS: ADJ, Subject Form: frahist | Newpart: dk5_ch24_sec13 | Sentence id: dk5-b:306 | Text: nūn =iz frahist pad =iz nibēgīhā pād ēstēd čiyōn andar āgāhān paydāg
+Subject UPOS: ADJ, Subject Form: druyistdār | Newpart: 5.24.16a | Sentence id: dk5-b:328 | Text: druyistdār ī ham saxwan pad gyāg
+Subject UPOS: ADJ, Subject Form: grāytar | Newpart: 5.24.19b | Sentence id: dk5-b:349 | Text: nē ēwāz pid bē šusr ud xōn abārīg =iz ī hixr xwānīhēd az =iš ān ī grāytar daštān murdag bahr ī az ān ī ō frazend hambunīgīh winast kē rāy pad =iš mehmānīh windēd
+Subject UPOS: DET, Subject Form: ān | Newpart: dk5_ch4_sec2 | Sentence id: dk5-b:45 | Text: ān ōwōn wehīh ud xwarrah , did pad čīdagīh az bun gumēzišnīg tā čē abarmadan ī nōg nōg āhōgōmandīh ī az dēwān andar frazendān ī frawāg ō hōšyang ud wāygard čiyōn hōšyang pad abardar xwarrahīh gēhān xwadāy ud wāygard pad dahigānīh gēhān warzīdār ud parwardār būd
+Subject UPOS: SCONJ, Subject Form: kē | Newpart: dk5_ch4_sec9 | Sentence id: dk5-b:55 | Text: bowandag awi =š pardazišnīhā hammōxtan ō ham ōy ud kē abāyēd hammōxtan
+Subject UPOS: ADJ, Subject Form: anambasān | Newpart: dk5_ch6_sec3 | Sentence id: dk5-b:63 | Text: ēn =iz guft kū =š anambasān framān ō kām X ,
+Subject UPOS: VERB, Subject Form: zīwistan | Newpart: ch19_sec1 | Sentence id: dmx-l19:103 | Text: pursīd dānāg ō mēnōy ī xrad , kū pad bīm ud mihōxt zīwistan wattar ayāb margīh
+Subject UPOS: VERB, Subject Form: zīwistan | Newpart: ch19_sec4 | Sentence id: dmx-l19:104 | Text: mēnōy ī xrad passox kird kū pad bīm ud mihōxt zīwistan az margīh wattar
+Subject UPOS: VERB, Subject Form: brēhēnišn | Newpart: ch23_sec5 | Sentence id: dmx-l19:154 | Text: čē ka brēhēnišn pad nēkīh ayāb pad ǰuttarīh frāz rasēd dānāg pad kār wiyābān bawēd
+Subject UPOS: ADJ, Subject Form: waddil | Newpart: ch23_sec6 | Sentence id: dmx-l19:156 | Text: ud waddil dilērtar bawēd ud dilērtar waddil bawēd
+Subject UPOS: ADJ, Subject Form: tuxšāg | Newpart: ch23_sec7 | Sentence id: dmx-l19:157 | Text: ud tuxšāg aǰgahān bawēd ud aǰgahān tuxšāg bawēd
+Subject UPOS: ADJ, Subject Form: drustčašm | Newpart: ch26_sec6 | Sentence id: dmx-l19:171 | Text: ud ōy ī drustčašm ka =š dānišn ī tis nēst ud ān =iz ī =š hammōzēnd nē padīrēd ēg =iš ān az =iz kōrčašm wattar ,
+Subject UPOS: ADJ, Subject Form: dušxēm | Newpart: ch26_sec8 | Sentence id: dmx-l19:172 | Text: dušxēm weh kū dušāgāh čē dušxēm ǰud az dādestān az kas be stadan nē tuwān
+Subject UPOS: ADJ, Subject Form: druwand | Newpart: ch27_sec23 | Sentence id: dmx-l19:187 | Text: ud haft ēwēnag nibēg ī dibīrīh ī ōy druwand pad nigān dāšt be ō paydāgīh āwurd ,
+Subject UPOS: DET, Subject Form: ān | Newpart: ch40_sec10 | Sentence id: dmx-l19:224 | Text: čē ān ī kas-iz az =iš nē hušnūdag
+Subject UPOS: ADJ, Subject Form: kāmag | Newpart: ch40_sec11 | Sentence id: dmx-l19:225 | Text: čē ān ēk kāmag ī ohrmazd ī xwadāy az mardōmān sahēd
+Subject UPOS: ADJ, Subject Form: kāmag | Newpart: ch40_sec12 | Sentence id: dmx-l19:226 | Text: ud čē ān ēk kāmag ī ahriman ī druwand az mardōmān sahēd
+Subject UPOS: DET, Subject Form: ān | Newpart: ch14_sec13 | Sentence id: dmx-l19:26 | Text: xwāstag ān weh ud xwaštar ī az frārōnīh handōxt ēstēd ud abāg kār ud kirbag xwarēd ud dārēd
+Subject UPOS: DET, Subject Form: ān | Newpart: 15.10a | Sentence id: dmx-l19:32 | Text: ud ōy was xwāstag kē az frārōntuxšāgīh handōxt ēstēd ud abāg kār kirbag ud rāmišn xwarēd ud dārēd ān =iz az =iš weh nēst ,
+Subject UPOS: DET, Subject Form: ān | Newpart: 15.10b | Sentence id: dmx-l19:34 | Text: bē ōy ī was xwāstag mard kē =š xwāstag az frārōntuxšāgīh handōxt ēstēd ud abāg kār ud kirbag ud rāmišn xwarēd ud dārēd ān meh ud weh ud pahlomtar ,
+Subject UPOS: DET, Subject Form: ān | Newpart: ch15_sec31 | Sentence id: dmx-l19:44 | Text: dušpādixšāyīh ān bawēd kē dād ud ēwēn rāst ud frārōn wišōbēd , ud stahm ud appar ud adādestānīh , andar kār āwarēd , ud xīr ī mēnōy wišōbēd , ud kār kirbag pad āb bēš dārēd ,
+Subject UPOS: SCONJ, Subject Form: kē | Newpart: ch16_sec49 | Sentence id: dmx-l19:85 | Text: ud kē may az paymān freh xwarēd ēn and āhōg pad =iš paydāg bawēd
+Subject UPOS: VERB, Subject Form: parwarišn | Newpart: ch16_sec66 | Sentence id: dmx-l19:98 | Text: ēd rāy čē parnagān az xrafstar bawēd ud pambag parwarišn az āb ud rōyišn az zamīg ud pad xīr ī ruwān meh ud weh ud arzōmandtar guft ēstēd
+Subject UPOS: ADJ, Subject Form: dānāg | Newpart: ch17_sec2 | Sentence id: dmx-l19:99 | Text: pursīd dānāg ō mēnōy ī xrad kū kadām ān šādīh ī az dušrāmīh wattar
+Subject UPOS: SCONJ, Subject Form: ī | Newpart: gbd_ch15_sec14 | Sentence id: gbd-td1:1012 | Text: ud ast ī xwadčīnagčīd čiyōn xrōs
+Subject UPOS: SCONJ, Subject Form: ī | Newpart: gbd_ch15_sec14 | Sentence id: gbd-td1:1013 | Text: ud ast ī nēstparragīh rāy mādar čīnag bawēd
+Subject UPOS: SCONJ, Subject Form: ī | Newpart: gbd_ch15_sec15 | Sentence id: gbd-td1:1015 | Text: ud ast ī ka nihānāg ud ast ī ka āškārag mayān ī mardōmān rōyēd
+Subject UPOS: ADJ, Subject Form: haftom | Newpart: gbd_ch1_sec53 | Sentence id: gbd-td1:107 | Text: ān ī haftom xwad ohrmazd
+Subject UPOS: ADJ, Subject Form: mādagwar | Newpart: gbd_ch16_sec26 | Sentence id: gbd-td1:1076 | Text: ud kē -z wēš az ēn ast bē mādagwar ēn and ast
+Subject UPOS: ADJ, Subject Form: dānāgtar | Newpart: gbd_ch17_sec26 | Sentence id: gbd-td1:1081 | Text: dō mard ka pad āgenēn frāz rawēnd ān ī dānāgtar rāstgōwišntar rad
+Subject UPOS: ADJ, Subject Form: haftom | Newpart: gbd_ch1_sec53 | Sentence id: gbd-td1:109 | Text: ān ī haftom xwad būd čē ohrmazd harw dō ast mēnōy nazdist gētī az amahrspandān
+Subject UPOS: DET, Subject Form: ān | Newpart: gbd_ch1_sec53 | Sentence id: gbd-td1:113 | Text: ēn kū ān ī ō dām rasēd tā frašegird ā -š dānist ,
+Subject UPOS: ADJ, Subject Form: haftom | Newpart: gbd_ch1_sec53 | Sentence id: gbd-td1:115 | Text: haftom xwad ohrmazd haštom rāstgōwišnīh nohom srōšahlaw ud dahom mānsrspand yāzdahom nēryōsang dwāzdahom rad ī buland rahwōbirzid sēzdahom rašn ī rāst čahārdahom mihr ī frāgōyōt pānzdahom ālišwang ī weh šānzdahom pārand haftdahom xwēy haštdahom wād nōzdahom dādestānōmandīh wīstom pahikār pēšēmālpasēmālīh āštīhabzōnīg ,
+Subject UPOS: ADV, Subject Form: haftom | Newpart: gbd_ch1_sec55 | Sentence id: gbd-td1:120 | Text: haftom xwad ganāgmēnōy ,
+Subject UPOS: DET, Subject Form: ān | Newpart: gbd_ch1_sec59 | Sentence id: gbd-td1:133 | Text: čē ka -š dām pad mēnōy , parward ān būd mādarīh ka -š bē ō gētī dād ān būd pidarīh
+Subject UPOS: SCONJ, Subject Form: kē | Newpart: 1a.4 | Sentence id: gbd-td1:139 | Text: u -š nazdist āsemān dād pad abāzdārišnīh ast kē fradom gōwēd
+Subject UPOS: SCONJ, Subject Form: kē | Newpart: 1a.22 | Sentence id: gbd-td1:211 | Text: nām ī ān panǰ rōz ī truftag ast kē panǰ gāh ī gāhānīg ast kē panǰag ī weh gōwēd
+Subject UPOS: DET, Subject Form: ēn | Newpart: 1a.22 | Sentence id: gbd-td1:212 | Text: pad dēnīg ēn ast ahunawaytgāh uštawaytgāh spantmatgāh wohušahrgāh wahištōyštgāh ,
+Subject UPOS: ADJ, Subject Form: meh | Newpart: gbd_ch2_sec16 | Sentence id: gbd-td1:246 | Text: az awēšān stārān ān ī meh čand sang -ēw ī kadagmasā ī ān ī mayānag čand čaxrag ōbadišn ān ī keh čand sar ī gāw kadagīg
+Subject UPOS: ADJ, Subject Form: haštom | Newpart: gbd_ch3_sec1 | Sentence id: gbd-td1:259 | Text: ohrmazd nām ī sī amahrspand pad ān ī sī rōz ēdōn nihād kū nazdist ohrmazd pas šaš amahrspand bawēd haft haštom day ast dādār ud pas šaš amahrspand bawēd haft haštom day ast dādār ud pas haft amahrspand bawēd haštom
+Subject UPOS: ADJ, Subject Form: nazdist | Newpart: gbd_ch3_sec7 | Sentence id: gbd-td1:271 | Text: čiyōn mēnōy ohrmazd ān ī šaš amahrspand wahman ordohišt šahrewar spandarmad hordad amurdad ēdōn asemān šaš pay ī nazdist abrpāyag dudīgar spihr ī axtarān sidīgar star ī agumēzišnīh čahārom wahišt māh pad ān ī pāyag estēd panǰom garōdmān kē anagr ī rōšn xwānīhēd xwaršēd pad ān ī pāyag estēd šašom gāh amahrspandān haftom asar rōšnīh ud gāh ohrmazd
+Subject UPOS: ADJ, Subject Form: dudīgar | Newpart: gbd_ch3_sec14 | Sentence id: gbd-td1:285 | Text: ud dudīgar az mēnōyān wahman
+Subject UPOS: ADJ, Subject Form: sidīgar | Newpart: gbd_ch3_sec15 | Sentence id: gbd-td1:290 | Text: sidīgar az mēnōyān ordohišt
+Subject UPOS: ADV, Subject Form: čahārom | Newpart: gbd_ch3_sec16 | Sentence id: gbd-td1:295 | Text: čahārom az mēnōyān šahrewar
+Subject UPOS: ADJ, Subject Form: panǰom | Newpart: gbd_ch3_sec17 | Sentence id: gbd-td1:301 | Text: panǰom az mēnōyān spandarmad
+Subject UPOS: ADJ, Subject Form: šašom | Newpart: gbd_ch3_sec18 | Sentence id: gbd-td1:308 | Text: šašom az mēnōyān hordad
+Subject UPOS: ADJ, Subject Form: haftom | Newpart: gbd_ch3_sec19 | Sentence id: gbd-td1:311 | Text: haftom az mēnōyān amurdad
+Subject UPOS: DET, Subject Form: kadār | Newpart: gbd_ch3_sec23 | Sentence id: gbd-td1:321 | Text: abāg bōy frawahr ī mardōmān uskārd ud xrad ī harwispāgāhīh pad mardōmān frāz srūd guft kū kadār -tān sūdōmandtar sahēd ka -tān bē ō gētī brēhēnom ud tanīgirdīhā abāg druz be kōxšēd ud druz be abesīhēnēd u -tān pad frazām drust drust anōšag abāz wirāyēm u -tān abāz ō gētī daham hamēyīggāh ī amarg abē , hamēmāl bawēd ayāb -itān hamēyīgpānagīh ēbgat abāyēd kirdan
+Subject UPOS: ADJ, Subject Form: druwand | Newpart: gbd_ch4_sec4 | Sentence id: gbd-td1:328 | Text: az -iš nē rāmīhist ōy ī druwand nē āxist az ān stardīh bīm ī mard ī ahlaw rāy tā ka ǰeh ī druwand mad pad bowandagīh sēhazār sāl dawīd kū āxēz pid ī amāh čē man andar ān kārēzār andčand bēš abar mard ī ahlaw gāw warzāg hilam kū kunišn ī man rāy zīwandīh nē abāyēd u -šān xwarrah bē apparam bēšēm āb bēšēm zamīg bēšēm ātaxš bēšēm urwar bēšēm harwisp dahišn ī ohrmazddād
+Subject UPOS: SCONJ, Subject Form: kē | Newpart: 4a.5 | Sentence id: gbd-td1:382 | Text: u -šān pas frawahr ī zardušt be nimūd kū bē daham ō gētī kē pahrēz bē gōwēd
+Subject UPOS: ADJ, Subject Form: homānāg | Newpart: 5a.9 | Sentence id: gbd-td1:415 | Text: handāzag ēn axtarān homānāg ī tērag čē awēšān dēw hēnd zarmānīh ud anāgīh kirdār
+Subject UPOS: DET, Subject Form: ēn | Newpart: 5b.22 | Sentence id: gbd-td1:465 | Text: ēn nišānag pad asmān kē rāh ī kayusān xwānēnd ud rāh ī gōzihr mār čiyōn andar spihr
+Subject UPOS: ADJ, Subject Form: čašmag | Newpart: 6b.16 | Sentence id: gbd-td1:508 | Text: dō čašmag ī zrēh az -iš ō paydāgīh mad ēk čēčest ēk sūwar kē -šān bun ī xān , ō čašmag ī zrēh paywast estēd , ,
+Subject UPOS: SCONJ, Subject Form: kē | Newpart: gbd_ch1_sec39 | Sentence id: gbd-td1:66 | Text: pas az zamān ī agāragīhā zamān ī dērandxwadāy frāz dād ast kē zamān ī X kanāragōmand gōwēd
+Subject UPOS: SCONJ, Subject Form: kē | Newpart: gbd_ch10_sec2 | Sentence id: gbd-td1:679 | Text: ast kē čašmagān ī ardwīsūr _ ud ast kē xānīgān ī war gōwēd
+Subject UPOS: ADJ, Subject Form: girišāg | Newpart: gbd_ch13_sec35 | Sentence id: gbd-td1:870 | Text: pad sāl drahnāy ān ī girišāg be mad ǰud sēnmurw
+Subject UPOS: ADJ, Subject Form: ābīg | Newpart: gbd_ch13_sec35 | Sentence id: gbd-td1:871 | Text: pad dō sāl ān ī ābīg ud ūgīg be mad ǰud az X asp
+Subject UPOS: ADJ, Subject Form: spēddōysar | Newpart: gbd_ch14_sec1 | Sentence id: gbd-td1:876 | Text: nazdist ān ī rōšn ī spēddōysar ī ast gayōmart
+Subject UPOS: ADJ, Subject Form: nohom | Newpart: gbd_ch14_sec1 | Sentence id: gbd-td1:877 | Text: tā dah sardag čiyōn ēk gayōmart nohom az gayōmart abāz bawēd
+Subject UPOS: ADJ, Subject Form: zangīg | Newpart: gbd_ch14_sec39 | Sentence id: gbd-td1:968 | Text: did pad wihān ī petyār gumēzišnīh būd čiyōn zangīg az ābīg ud zamīg būd X kē āb ud zamīg harw dō zīwēd ud abārīg ī az ēn ēwēnag , , ,
+Subject UPOS: ADJ, Subject Form: kōfīg | Newpart: 14b.1 | Sentence id: gbd-td1:976 | Text: u -šān kōfīg ud xirs ud wēšagīg dumbōmand abārīg wināhišnīg sardag aziš bawēd
+Subject UPOS: ADJ, Subject Form: zangīg | Newpart: 14b.2 | Sentence id: gbd-td1:980 | Text: az ān nōg ēk X kunišn zangīg būd
+Subject UPOS: ADJ, Subject Form: ūnīg | Newpart: gbd_ch15_sec1 | Sentence id: gbd-td1:985 | Text: ēdōn -iz asp xar ud gōr pad haft šab ud _ sag ud xūg pad panǰ šab ud _ mēš ud buz pad ēk šab ud ēdōn -iz X ēdōn -iz awēšān ūnīg ud ābīg pad ēk šab
+Subject UPOS: ADJ, Subject Form: mādag | Newpart: gbd_ch15_sec5 | Sentence id: gbd-td1:990 | Text: agar tohm ī mādag pēš bē āyēd xōn bawēd mādag az -iš nizārīhēd
+Subject UPOS: DET, Subject Form: ān | Newpart: gbd_ch15_sec9 | Sentence id: gbd-td1:998 | Text: ān xarān čehel rōz _ ān ī mardōmān ud aspsardagān ud gāwān abārīg az ēn ēwēnag sī rōz _ ud ān ī gōspandān pānzdah rōz _ ud ān ī sagān dah rōz _ ud ān ī rōbāh haft rōz _ ān ī raspūg panǰ rōz _ ān ī mūšagān šaš rōz pad šusrīh estēd ,

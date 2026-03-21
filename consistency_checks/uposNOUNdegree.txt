@@ -1,0 +1,215 @@
+Total sentences with upos='NOUN' and Degree='Cmp' or Degree='SUP': 96
+Sentence ID: 41, Newpart: mpcd-nm2_ch1_sec4
+  Token(id=17, form=wehān, lemma=weh, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=25, deprel=obl, deps=None, misc={'good person': ''})
+Sentence ID: 53, Newpart: dd_ch1_sec9
+  Token(id=54, form=mahist, lemma=mahist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=56, deprel=amod, deps=None, misc={'greatest': ''})
+Sentence ID: 69, Newpart: dd_ch2_sec12
+  Token(id=8, form=abartom, lemma=abar, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=9, deprel=amod, deps=None, misc={'high': ''})
+  Token(id=12, form=nazdīktom, lemma=nazdīk, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=0, deprel=root, deps=None, misc={'near': ''})
+Sentence ID: 74, Newpart: ch16_sec35
+  Token(id=3, form=wehān, lemma=weh, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=2, deprel=nmod, deps=None, misc={'good person': ''})
+Sentence ID: 93, Newpart: dd_ch3_sec4
+  Token(id=21, form=pahlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=22, deprel=amod, deps=None, misc={'excellent': ''})
+Sentence ID: 120, Newpart: zwy_ch4_sec54
+  Token(id=28, form=wattarān, lemma=wattar, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=33, deprel=obl, deps=None, misc={'evil one': ''})
+Sentence ID: 50, Newpart: dk5_ch4_sec6
+  Token(id=33, form=hutōhmagtom, lemma=hutōhmag, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=34, deprel=amod, deps=None, misc={'of good origin': ''})
+Sentence ID: 90, Newpart: dk5_ch9_sec2
+  Token(id=26, form=abardom, lemma=abardom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=27, deprel=amod, deps=None, misc={'excellent': ''})
+Sentence ID: 98, Newpart: dk5_ch9_sec15
+  Token(id=41, form=nāmčištīgtom, lemma=nāmčištīgtom, upos=ADV, xpos=None, feats={'Degree': 'Sup'}, head=42, deprel=advmod, deps=None, misc={'first of all': ''})
+Sentence ID: 183, Newpart: mpcd-nm2_ch7_sec1
+  Token(id=14, form=wehān, lemma=weh, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=17, deprel=obl, deps=None, misc={'good person': ''})
+Sentence ID: 219, Newpart: dk5_ch21_sec4
+  Token(id=2, form=kamist, lemma=kamist, upos=ADV, xpos=None, feats={'Degree': 'Sup'}, head=7, deprel=advmod, deps=None, misc={'at least': ''})
+Sentence ID: 291, Newpart: dk5_ch24_sec9
+  Token(id=23, form=garāntom, lemma=garān, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=26, deprel=amod, deps=None, misc={'terrible': ''})
+  Token(id=25, form=awištāfttom, lemma=awištāft, upos=ADJ, xpos=None, feats={'Degree': 'Sup', 'Subcat': 'Tran', 'Tense': 'Past', 'VerbForm': 'Part'}, head=23, deprel=conj, deps=[('amod', 26)], misc={'nagging': ''})
+Sentence ID: 306, Newpart: dk5_ch24_sec13
+  Token(id=3, form=frahist, lemma=frahist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=7, deprel=nsubj, deps=None, misc={'most': ''})
+Sentence ID: 324, Newpart: dk5_ch24_sec15
+  Token(id=10, form=abardom, lemma=abar, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=11, deprel=amod, deps=None, misc={'superior': ''})
+Sentence ID: 350, Newpart: 5.24.19b
+  Token(id=19, form=petyāragtom, lemma=petyārag, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=0, deprel=root, deps=None, misc={'wicked': ''})
+Sentence ID: 401, Newpart: dk5_ch24_sec27
+  Token(id=22, form=nāzuktom, lemma=nāzuktom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=20, deprel=amod, deps=None, misc={'delicate': ''})
+Sentence ID: 402, Newpart: dk5_ch24_sec27
+  Token(id=7, form=pahlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=5, deprel=amod, deps=None, misc={'excellent': ''})
+  Token(id=9, form=pākgartom, lemma=pākgar, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=7, deprel=conj, deps=[('amod', 5)], misc={'cleaning': ''})
+Sentence ID: 413, Newpart: 5a.9
+  Token(id=12, form=wattarān, lemma=wattar, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=11, deprel=obl, deps=[('nsubj', 17)], misc={'bad person': ''})
+Sentence ID: 2, Newpart: mpcd-nm1_ch0
+  Token(id=11, form=wehān, lemma=weh, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Gender': 'Masc', 'Number': 'Plur'}, head=14, deprel=obl, deps=None, misc={'better one, i.e. a religious authority': ''})
+Sentence ID: 11, Newpart: dk7_ch1_sec5
+  Token(id=11, form=pahlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=12, deprel=nsubj, deps=None, misc={'excellent': ''})
+Sentence ID: 12, Newpart: dk7_ch1_sec5
+  Token(id=1, form=pahlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=0, deprel=root, deps=None, misc={'excellent': ''})
+Sentence ID: 21, Newpart: dk7_ch1_sec9
+  Token(id=14, form=pahlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=16, deprel=advmod, deps=None, misc={'best': ''})
+Sentence ID: 24, Newpart: dk7_ch1_sec10
+  Token(id=15, form=pahlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=14, deprel=amod, deps=None, misc={'best': ''})
+Sentence ID: 76, Newpart: zwy_ch4_sec21
+  Token(id=5, form=wattom, lemma=wattom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=6, deprel=amod, deps=None, misc={'awful': ''})
+Sentence ID: 110, Newpart: dk7_ch1_sec37
+  Token(id=24, form=hufrahaxttom, lemma=hufrahaxt, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=25, deprel=amod, deps=None, misc={'well-taught': ''})
+Sentence ID: 117, Newpart: mpcd-nm2_ch3_sec3
+  Token(id=2, form=weh, lemma=weh, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=1, deprel=conj, deps=None, misc={'good person (i.e. Mazdean believer)': ''})
+Sentence ID: 124, Newpart: dk7_ch1_sec44
+  Token(id=11, form=mahist, lemma=mahist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=12, deprel=amod, deps=None, misc={'greatest': ''})
+  Token(id=14, form=pāhlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=12, deprel=amod, deps=None, misc={'excellent': ''})
+Sentence ID: 128, Newpart: dk7_ch1_sec48
+  Token(id=17, form=pāhlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=18, deprel=amod, deps=None, misc={'excellent': ''})
+Sentence ID: 136, Newpart: dk7_ch2_sec1
+  Token(id=12, form=farroxtom, lemma=farrox, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=8, deprel=nmod, deps=None, misc={'blessed': ''})
+Sentence ID: 147, Newpart: dk7_ch2_sec4
+  Token(id=35, form=frahist, lemma=frahist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=38, deprel=advmod, deps=None, misc={'most': ''})
+Sentence ID: 1, Newpart: gbd_ch0_sec0
+  Token(id=12, form=mahist, lemma=mahist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=2, deprel=amod, deps=None, misc={'greatest': ''})
+Sentence ID: 3, Newpart: ch1_sec9
+  Token(id=24, form=bēšazgartom, lemma=bēšazgar, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=0, deprel=root, deps=None, misc={'wholesome': ''})
+Sentence ID: 6, Newpart: ch1_sec13
+  Token(id=10, form=nīrmadōmandtom, lemma=nīrmadōmand, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=11, deprel=amod, deps=None, misc={'effective': ''})
+Sentence ID: 30, Newpart: ch15_sec6
+  Token(id=7, form=driyōštom, lemma=driyōš, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=10, deprel=amod, deps=None, misc={'poor': ''})
+  Token(id=9, form=armēšttom, lemma=armēšt, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=7, deprel=conj, deps=[('amod', 10)], misc={'helpless': ''})
+Sentence ID: 33, Newpart: ch15_sec11
+  Token(id=4, form=pahlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=6, deprel=advcl, deps=[('acl', 2)], misc={'excellent': ''})
+Sentence ID: 46, Newpart: ch15_sec37
+  Token(id=19, form=wattarān, lemma=wattar, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=17, deprel=nmod, deps=None, misc={'bad person': ''})
+  Token(id=25, form=wehān, lemma=weh, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=21, deprel=nmod, deps=[('nmod', 23)], misc={'good person': ''})
+Sentence ID: 108, Newpart: mpcd-nm2_ch3_sec2
+  Token(id=5, form=abardom, lemma=abar, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=6, deprel=amod, deps=None, misc={'superior': ''})
+  Token(id=22, form=mahist, lemma=mahist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=23, deprel=amod, deps=None, misc={'greatest': ''})
+Sentence ID: 131, Newpart: ch21_sec27
+  Token(id=6, form=anarzānīgtom, lemma=an-arzānīg, upos=ADJ, xpos=None, feats={'Degree': 'Sup', 'Typo': 'Yes'}, head=7, deprel=amod, deps=None, misc={'unworthy': ''})
+Sentence ID: 137, Newpart: ch21_sec34
+  Token(id=7, form=wehān, lemma=weh, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur', 'Typo': 'Yes'}, head=9, deprel=obl, deps=None, misc={'good person': ''})
+  Token(id=12, form=wattarān, lemma=wattar, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur', 'Typo': 'Yes'}, head=9, deprel=conj, deps=None, misc={'bad person': ''})
+Sentence ID: 141, Newpart: zwy_ch5_sec5
+  Token(id=5, form=pahlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=7, deprel=nsubj, deps=None, misc={'best': ''})
+Sentence ID: 154, Newpart: zwy_ch6_sec4
+  Token(id=39, form=wattarān, lemma=wattar, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=42, deprel=obl, deps=None, misc={'bad person': ''})
+Sentence ID: 164, Newpart: ch24_sec8
+  Token(id=32, form=wehān, lemma=weh, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=35, deprel=obl, deps=None, misc={'good person': ''})
+  Token(id=37, form=wattarān, lemma=wattar, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=41, deprel=iobj, deps=None, misc={'bad person': ''})
+Sentence ID: 175, Newpart: mpcd-nm2_ch6_sec3
+  Token(id=16, form=pahlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=17, deprel=amod, deps=None, misc={'best': ''})
+  Token(id=19, form=mahist, lemma=mahist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=20, deprel=amod, deps=None, misc={'greatest': ''})
+  Token(id=33, form=abartom, lemma=abar, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=34, deprel=amod, deps=None, misc={'superior': ''})
+Sentence ID: 202, Newpart: ch39_sec31
+  Token(id=17, form=wattarān, lemma=wattar, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=13, deprel=conj, deps=[('obl', 19)], misc={'bad person': ''})
+Sentence ID: 349, Newpart: gbd_ch4_sec12
+  Token(id=9, form=bēdom, lemma=bēdom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=10, deprel=amod, deps=None, misc={'far off': ''})
+Sentence ID: 359, Newpart: gbd_ch4_sec21
+  Token(id=13, form=pahlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=14, deprel=advmod, deps=None, misc={'excellent': ''})
+Sentence ID: 427, Newpart: 5b.5
+  Token(id=9, form=mahist, lemma=mahist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=0, deprel=root, deps=None, misc={'greatest': ''})
+Sentence ID: 432, Newpart: 5b.7
+  Token(id=8, form=mahist, lemma=mahist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=6, deprel=amod, deps=None, misc={'longest': ''})
+  Token(id=15, form=keh, lemma=keh, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=13, deprel=amod, deps=None, misc={'shortest': ''})
+Sentence ID: 433, Newpart: 5b.8
+  Token(id=7, form=keh, lemma=keh, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=5, deprel=amod, deps=None, misc={'shortest': ''})
+  Token(id=14, form=keh, lemma=keh, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=12, deprel=amod, deps=None, misc={'shortest': ''})
+Sentence ID: 434, Newpart: 5b.9
+  Token(id=6, form=keh, lemma=keh, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=4, deprel=amod, deps=None, misc={'shortest': ''})
+  Token(id=13, form=meh, lemma=meh, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=11, deprel=amod, deps=None, misc={'longest': ''})
+Sentence ID: 435, Newpart: 5b.10
+  Token(id=7, form=mahist, lemma=mahist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=5, deprel=amod, deps=None, misc={'greatest': ''})
+  Token(id=14, form=mahist, lemma=mahist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=12, deprel=amod, deps=None, misc={'greatest': ''})
+Sentence ID: 613, Newpart: gbd_ch8_sec7
+  Token(id=4, form=frahist, lemma=frahist, upos=DET, xpos=None, feats={'Degree': 'Sup'}, head=5, deprel=det, deps=None, misc={'most': ''})
+Sentence ID: 614, Newpart: gbd_ch8_sec7
+  Token(id=7, form=wattom, lemma=wattom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=0, deprel=root, deps=None, misc={'worst': ''})
+Sentence ID: 830, Newpart: gbd_ch13_sec10
+  Token(id=15, form=nidom, lemma=nidom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=11, deprel=conj, deps=[('acl', 3)], misc={'smallest': ''})
+Sentence ID: 831, Newpart: gbd_ch13_sec10
+  Token(id=16, form=nidom, lemma=nidom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=12, deprel=conj, deps=[('acl', 7)], misc={'smallest': ''})
+Sentence ID: 832, Newpart: gbd_ch13_sec10
+  Token(id=13, form=nidom, lemma=nidom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=10, deprel=conj, deps=[('acl', 3)], misc={'smallest': ''})
+Sentence ID: 833, Newpart: gbd_ch13_sec10
+  Token(id=13, form=nidom, lemma=nidom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=10, deprel=conj, deps=[('acl', 5)], misc={'smallest': ''})
+Sentence ID: 878, Newpart: gbd_ch14_sec1
+  Token(id=4, form=nidom, lemma=nidom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=5, deprel=xcomp, deps=[('acl', 1)], misc={'smallest': ''})
+Sentence ID: 898, Newpart: gbd_ch14_sec11
+  Token(id=4, form=pahlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=3, deprel=amod, deps=None, misc={'best': ''})
+Sentence ID: 970, Newpart: 14a.1
+  Token(id=21, form=šīrēntom, lemma=šīrēn, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=19, deprel=amod, deps=None, misc={'sweet': ''})
+Sentence ID: 974, Newpart: 14a.1
+  Token(id=12, form=bālist, lemma=bālist, upos=ADJ, xpos=None, feats={'Degree': 'Sup', 'Typo': 'Yes'}, head=13, deprel=amod, deps=None, misc={'highest': ''})
+Sentence ID: 9, Newpart: mpcd-nm1_ch1_sec3
+  Token(id=21, form=frayistīhā, lemma=frahistīhā, upos=ADV, xpos=None, feats={'AdvType': 'Deg', 'Degree': 'Sup', 'Typo': 'Yes'}, head=3, deprel=advmod, deps=None, misc={'mostly, most of all': ''})
+Sentence ID: 10, Newpart: mpcd-nm1_ch1_sec3
+  Token(id=17, form=kāmagtom, lemma=kāmag, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=0, deprel=root, deps=None, misc={'wishing, desirable': ''})
+Sentence ID: 14, Newpart: mpcd-nm1_ch2_sec1
+  Token(id=46, form=ahlāyīhdōšīdārtom, lemma=ahlāyīh-dōšīdār, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=64, deprel=obj, deps=[('obj', 39)], misc={'loving righteousness': ''})
+  Token(id=49, form=rāstīhkāmagtom, lemma=rāstīh-kāmag, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=46, deprel=conj, deps=None, misc={'truth-desirous': ''})
+  Token(id=51, form=frārōnristagtom, lemma=frārōn-ristag, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=46, deprel=conj, deps=None, misc={'of righteous manner': ''})
+  Token(id=52, form=uskārišnāgāhtom, lemma=uskārišn-āgāh, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=46, deprel=conj, deps=None, misc={'versed in deliberating': ''})
+  Token(id=54, form=škeftpahrēzišntom, lemma=škeft-pahrēzišn, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=46, deprel=conj, deps=None, misc={'of hard protection': ''})
+  Token(id=59, form=wizīdagtom, lemma=wizīdag, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=46, deprel=conj, deps=None, misc={'chosen, selected': ''})
+  Token(id=62, form=rāstīhāhangīgtom, lemma=rāstīh-āhangīg, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=46, deprel=conj, deps=None, misc={'inclined to truth': ''})
+Sentence ID: 31, Newpart: mpcd-nm1_ch2_sec6
+  Token(id=22, form=wehān, lemma=weh, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=21, deprel=nmod, deps=None, misc={'good person': ''})
+Sentence ID: 32, Newpart: mpcd-nm1_ch2_sec6
+  Token(id=6, form=frahist, lemma=frahist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=7, deprel=amod, deps=None, misc={'most': ''})
+Sentence ID: 35, Newpart: mpcd-nm2_ch1_sec1
+  Token(id=8, form=abardom, lemma=abar, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=9, deprel=amod, deps=None, misc={'higher, superior': ''})
+Sentence ID: 43, Newpart: mpcd-nm2_ch1_sec6
+  Token(id=17, form=mahist, lemma=mahist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=18, deprel=amod, deps=None, misc={'greatest': ''})
+Sentence ID: 109, Newpart: mpcd-nm2_ch3_sec2
+  Token(id=10, form=frāzdom, lemma=frāz, upos=ADJ, xpos=None, feats={'Degree': 'Sup', 'Typo': 'Yes'}, head=11, deprel=amod, deps=None, misc={'forth, forwards': ''})
+Sentence ID: 119, Newpart: mpcd-nm2_ch3_sec3
+  Token(id=16, form=wehān, lemma=weh, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=14, deprel=nmod, deps=None, misc={'good person': ''})
+Sentence ID: 143, Newpart: zwy_ch5_sec5
+  Token(id=5, form=pahlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=7, deprel=nsubj, deps=None, misc={'excellent': ''})
+Sentence ID: 156, Newpart: mpcd-nm2_ch5_sec14
+  Token(id=4, form=wāspuhragāntom, lemma=wāspuhragān, upos=ADJ, xpos=None, feats={'Degree': 'Sup', 'Typo': 'Yes'}, head=5, deprel=amod, deps=None, misc={'noble, distinguished': ''})
+Sentence ID: 158, Newpart: mpcd-nm2_ch5_sec14
+  Token(id=8, form=garāntom, lemma=garān, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=9, deprel=amod, deps=None, misc={'grievous': ''})
+Sentence ID: 177, Newpart: mpcd-nm2_ch6_sec4
+  Token(id=28, form=mahist, lemma=mahist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=29, deprel=amod, deps=None, misc={'greatest': ''})
+Sentence ID: 195, Newpart: mpcd-nm2_ch8_sec2
+  Token(id=36, form=dōšist, lemma=dōšist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=32, deprel=amod, deps=None, misc={'most beloved': ''})
+Sentence ID: 206, Newpart: mpcd-nm2_ch9_sec5
+  Token(id=7, form=abartom, lemma=abar, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=8, deprel=amod, deps=None, misc={'higher, superior': ''})
+Sentence ID: 223, Newpart: mpcd-nm2_ch9_sec14
+  Token(id=34, form=aštagtom, lemma=aštag, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Sup'}, head=30, deprel=conj, deps=None, misc={'messenger': ''})
+Sentence ID: 262, Newpart: mpcd-nm3_ch1_sec9
+  Token(id=10, form=ašōtom, lemma=ašō, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=9, deprel=nmod, deps=None, misc={'righteous': ''})
+Sentence ID: 263, Newpart: mpcd-nm3_ch1_sec9
+  Token(id=7, form=meh, lemma=meh, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=6, deprel=amod, deps=None, misc={'greater': ''})
+  Token(id=8, form=weh, lemma=weh, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=9, deprel=amod, deps=None, misc={'better': ''})
+Sentence ID: 8, Newpart: mpcd-nm1_ch1_sec3
+  Token(id=8, form=garāntom, lemma=garān, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=9, deprel=amod, deps=None, misc={'grievous': ''})
+Sentence ID: 25, Newpart: raf_ch3_sec2
+  Token(id=14, form=wizistārtar, lemma=wizistār, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp'}, head=7, deprel=acl:relcl, deps=None, misc={'teaching, teacher': ''})
+Sentence ID: 55, Newpart: zwy_ch4_sec3
+  Token(id=3, form=nidom, lemma=nidom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=4, deprel=amod, deps=None, misc={'lowest': ''})
+Sentence ID: 56, Newpart: zwy_ch4_sec3
+  Token(id=3, form=nidom, lemma=nidom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=4, deprel=amod, deps=None, misc={'lowest': ''})
+Sentence ID: 84, Newpart: zwy_ch4_sec28
+  Token(id=19, form=nidom, lemma=nidom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=20, deprel=amod, deps=None, misc={'lowest': ''})
+Sentence ID: 85, Newpart: zwy_ch4_sec28
+  Token(id=17, form=nidom, lemma=nidom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=18, deprel=amod, deps=None, misc={'least, lowest': ''})
+Sentence ID: 88, Newpart: zwy_ch4_sec31
+  Token(id=5, form=nidom, lemma=nidom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=6, deprel=amod, deps=None, misc={'lowest': ''})
+Sentence ID: 105, Newpart: zwy_ch4_sec40
+  Token(id=2, form=wehān, lemma=weh, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=5, deprel=obl, deps=None, misc={'good person': ''})
+Sentence ID: 122, Newpart: zwy_ch4_sec54
+  Token(id=28, form=wattarān, lemma=wattar, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=32, deprel=obl, deps=None, misc={'evil one': ''})
+Sentence ID: 182, Newpart: zwy_ch7_sec9
+  Token(id=7, form=bālist, lemma=bālist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=8, deprel=obl, deps=None, misc={'summit': ''})
+Sentence ID: 22, Newpart: zwy_ch3_sec5
+  Token(id=15, form=pāhlom, lemma=pāhlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=16, deprel=amod, deps=None, misc={'best': ''})
+Sentence ID: 57, Newpart: zwy_ch4_sec4
+  Token(id=6, form=nidom, lemma=nidom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=7, deprel=amod, deps=None, misc={'lowest': ''})
+Sentence ID: 87, Newpart: zwy_ch4_sec31
+  Token(id=5, form=nidom, lemma=nidom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=6, deprel=amod, deps=None, misc={'lowest': ''})
+Sentence ID: 104, Newpart: zwy_ch4_sec40
+  Token(id=2, form=wehān, lemma=weh, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=4, deprel=obl, deps=None, misc={'good person': ''})
+Sentence ID: 123, Newpart: zwy_ch4_sec57
+  Token(id=8, form=gōhrēwēnist, lemma=gōhr-ēwēnist, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=11, deprel=nsubj, deps=None, misc={'things likeliest to gem': ''})
+Sentence ID: 139, Newpart: zwy_ch5_sec2
+  Token(id=10, form=pahlom, lemma=pahlom, upos=ADJ, xpos=None, feats={'Degree': 'Sup'}, head=8, deprel=amod, deps=None, misc={'foremost': ''})
+Sentence ID: 152, Newpart: zwy_ch6_sec4
+  Token(id=53, form=wattarān, lemma=wattar, upos=NOUN, xpos=None, feats={'Animacy': 'Hum', 'Degree': 'Cmp', 'Number': 'Plur'}, head=56, deprel=obl, deps=None, misc={'bad person': ''})

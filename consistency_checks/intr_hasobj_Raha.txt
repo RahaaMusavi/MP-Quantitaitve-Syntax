@@ -1,0 +1,20 @@
+Lemma: nigerīdan, Newpart: dk5_ch24_sec21, sentence_id: dk5-b:364, Sentence: kē zāyišn ī dēwān škeft sahēd fradom čiyōnīh nigerišn ī kadāmagāniz zāyišn kū mādayān abzāyišn ī az gyāg tā ēn kū dēwān harrōbišn ō ānōh wēš kū adādīhā ud anēwēnīh mehmāntar hupaydāg
+Lemma: rasīdan, Newpart: dk7_ch1_sec12, sentence_id: dk7-b:29, Sentence: ān awēšān āfrīnēnēš kū ul az ašmāh ēd ǰōrdā rasēd
+Lemma: rasīdan, Newpart: dk7_ch1_sec13, sentence_id: dk7-b:34, Sentence: u =š awēšān āfrīnēnīd kū ul az ašmāh ēd ǰōrdāg rasād
+Lemma: āhuftan, Newpart: dk7_ch1_sec27, sentence_id: dk7-b:71, Sentence: u =š az wāstaryōšīh ī dēn sidīgar pēšag āhuft seǰudxīndagīhspōztanbizēškīh
+Lemma: madan, Newpart: dk7_ch1_sec28, sentence_id: dk7-b:74, Sentence: ud mad andar frēdōn zīndagīh ī ō ēriǰ ī frēdōnān ham waxš az dādār abarbarišnīh
+Lemma: madan, Newpart: dk7_ch1_sec28, sentence_id: dk7-b:77, Sentence: u =š mad az dādār ān yān pad āfrīn ī frēdōn ,
+Lemma: abzūdan, Newpart: dk7_ch1_sec31, sentence_id: dk7-b:94, Sentence: ud abzūd andar ērānšahr was rōdān rōdestāgān ,
+Lemma: nibēsīhistan, Newpart: dk7_ch1_sec44, sentence_id: dk7-b:124, Sentence: nūn nibēsīhēd abar warz ud xwarrah ud abdīh ī dēn mahist waxšwar dahišnān pāhlom yaštfrawahr spitāmān zarduxšt ān ī andar gēhān paydāgīhist
+Lemma: paydāgīhistan, Newpart: dk7_ch1_sec44, sentence_id: dk7-b:125, Sentence: ud paydāgīhist ēdar dar dah pad āgāhīh ī az abestāg wābarīgān dēn ī ohrmazd , ,
+Lemma: būdan, Newpart: zwy_ch1_sec11, sentence_id: zwy-k43:13, Sentence: ud ān ī āhen abar gumēxt estēd pādixšāyīh dēw ī wizārdwars ī xešmtōhmag ud ka dahom ī sadōzim ī tō sar bawēd spitmān zarduxšt
+Lemma: h-, Newpart: zwy_ch4_sec11, sentence_id: zwy-k43:63, Sentence: u =šān pašt ud paymān ud rāstīh ud ēwēn nēst zēnhār nē dārēnd ud pad pašt ī kunēnd abar nē estēnd
+Lemma: būdan, Newpart: zwy_ch4_sec22, sentence_id: zwy-k43:79, Sentence: hamāg sardagān ǰudkēšān ō awēšān anāgīh xwāstār , bawēnd
+Lemma: wistardan, Newpart: zwy_ch4_sec30, sentence_id: zwy-k43:86, Sentence: ud ēwāz ka pad nasākadag ī awēšān barsom frāz wistarēd ud drōn frāz yazēd pādixšāy bawēd
+Lemma: rasīdan, Newpart: zwy_ch4_sec44, sentence_id: zwy-k43:110, Sentence: ud ān ī garm wād ān ī sard wād rasēd ud bar ud tōhm ī ǰōrdāyān bē barēd
+Lemma: madan, Newpart: zwy_ch4_sec49, sentence_id: zwy-k43:115, Sentence: ud mardōm pad ān škaft āwām spitāmān zarduxšt kē kustīg pad mayān dārēnd anāgīhxwāstārīh dušpāduxšāyīh ud was ān drōdādestān ī =š abar mad estēd ī =šān zīwandagīh nē abāyēd margīh pad āyaft xwāhēnd
+Lemma: yaštan, Newpart: zwy_ch5_sec11, sentence_id: zwy-k43:148, Sentence: hanǰamanīgān narān ud mādagān yazam ud amahrspandān kē nar =iz awēšān weh hēnd
+Lemma: būdan, Newpart: zwy_ch6_sec4, sentence_id: zwy-k43:152, Sentence: ka bē āyēnd sepitāmān zarduxšt xwaršēd nizm nišān nimāyēd ud az gōnag wardēd pad gēhān nizm ud tom ud tārīkīh bawēd pad āsemān nišānag ī gōnag gōnag paydāg bawēd ud būmčandag ī was bawēd ud wād stahmbagtar āyēd ud pad gēhān niyāz ud tangīh ud dušxwārīh ō dīdār āyēd tīr ī ohrmazd wattarān rāy pādixšāyīh rāyēnēnd
+Lemma: waštan, Newpart: zwy_ch6_sec6, sentence_id: zwy-k43:159, Sentence: ēdōn bē ōzanēnd ān ī awēšān xešmtōhmagān sadgānag ud hazārgānag ud bēwargānag abāz wardēnd drafš nišān
+Lemma: būdan, Newpart: zwy_ch7_sec2, sentence_id: zwy-k43:173, Sentence: guft =iš ohrmazd kū sipitāmān zarduxšt ka dēw ī wizārdwars ī xešmtōhmag ō paydāgīh āyēd pad kust ī xwarāsān nazdist nišān ī syā paydāg bawēd
+Lemma: būdan, Newpart: zwy_ch7_sec6, sentence_id: zwy-k43:179, Sentence: kū ān šab ka kay zāyēd nišān nimāyēd hād dādohrmazd guft kū ābān māh ud wād rōz pidar ī ōy kay frazām bawēd pad kayagān ī dāhī parwarēnd
