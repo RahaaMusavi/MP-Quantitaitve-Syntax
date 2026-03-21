@@ -34,10 +34,8 @@ The planned scripts.docx: Technical roadmap and research assumptions for the com
 
 🔗 Related Work
 
-This repository is part of a broader study on the transition from synthetic to analytic structures in Middle Persian.
-
+There is another repository for a paper as part of this project that can be found here:
 Paper Repository: MiddlePersian-NounPhrase-Classes
-
 Publication: Head Directionality and the Ezafe Marking in Middle Persian Noun Phrase: A Corpus-Based Approach. (Submitted to International Journal of Corpus Linguistics).
 
 DOI: 10.5281/zenodo.19113772
