@@ -20,9 +20,9 @@ token-count.ipynb: Baseline metrics for sentence and token counts across the cor
 
 ### 2\. Preliminary Grammar Chapters
 
-The folder old-sections-inprogress/ contains preliminary drafts of key syntactic sections, expanding on the statistical findings:
+The folder old-sections-inprogress/ contains preliminary drafts of sections in an older chapter distribution plan, expanding on the statistical findings:
 
-Comparative Syntax: Analysis of az and kū constructions and superlative strategies.
+Comparative Syntax: Analysis of comparatives, az and kū constructions and superlative strategies.
 
 Coordination and Ellipsis: Investigation of the "Orphan" relation and non-projectivity in SOV coordination.
 
