@@ -1,0 +1,411 @@
+File,Auxiliary,Transitivity,Phrase,Count
+AOD-K20_mptf.conllu,ēstādan,transitive,gumēxtan ēstādan,1
+AOD-K20_mptf.conllu,ēstādan,transitive,abgandan ēstādan,1
+AOD-K20_mptf.conllu,ēstādan,transitive,āzārdan ēstādan,1
+AOD-K20_mptf.conllu,ēstādan,transitive,kirdan ēstādan,1
+AOD-K20_mptf.conllu,ēstādan,intransitive,madan1 ēstādan,2
+DD-K35_mptf.conllu,ēstādan,intransitive,madan1 ēstādan,1
+DD-K35_mptf.conllu,ēstādan,intransitive,bē šudan ēstādan,1
+DD-K35_mptf.conllu,ēstādan,transitive,handāxtan ēstādan,1
+DD-K35_mptf.conllu,ēstādan,transitive,dādan ēstādan,5
+DD-K35_mptf.conllu,ēstādan,transitive,guftan ēstādan,5
+DD-K35_mptf.conllu,ēstādan,transitive,āfurrīdan ēstādan,1
+DD-K35_mptf.conllu,ēstādan,transitive,kirdan ēstādan,4
+DD-K35_mptf.conllu,ēstādan,transitive,āstardan ēstādan,1
+DD-K35_mptf.conllu,ēstādan,transitive,stūdan ēstādan,1
+DD-K35_mptf.conllu,ēstādan,transitive,framūdan ēstādan,1
+DD-K35_mptf.conllu,h-,intransitive,āmadan h-,1
+DD-K35_mptf.conllu,h-,unknown,weh h-,1
+DD-K35_mptf.conllu,h-,unknown,gētī h-,1
+DD-K35_mptf.conllu,būdan,unknown,stāyīdār būdan,1
+DD-K35_mptf.conllu,būdan,unknown,ēdōn būdan,1
+DD-K35_mptf.conllu,būdan,transitive,dāštan būdan,1
+DD-K35_mptf.conllu,būdan,transitive,wirāstan būdan,1
+DD-K35_mptf.conllu,būdan,transitive,kirdan būdan,1
+DMX-K43a_mptf.conllu,ēstādan,transitive,dādan ēstādan,2
+DMX-K43a_mptf.conllu,ēstādan,transitive,guftan ēstādan,6
+DMX-K43a_mptf.conllu,ēstādan,transitive,frawārdan ēstādan,1
+DMX-K43a_mptf.conllu,ēstādan,transitive,kirrēnīdan ēstādan,1
+DMX-K43a_mptf.conllu,ēstādan,transitive,kirdan ēstādan,5
+DMX-K43a_mptf.conllu,ēstādan,transitive,baxtan ēstādan,1
+DMX-K43a_mptf.conllu,ēstādan,transitive,winnārdan ēstādan,2
+DMX-K43a_mptf.conllu,ēstādan,transitive,gumārdan ēstādan,2
+DMX-K43a_mptf.conllu,ēstādan,intransitive,rustan ēstādan,1
+DMX-K43a_mptf.conllu,h-,intransitive,būdan h-,1
+DMX-K43a_mptf.conllu,h-,intransitive,māndan1 h-,1
+DMX-K43a_mptf.conllu,h-,intransitive,nē šāyistan h-,1
+DMX-K43a_mptf.conllu,h-,transitive,wišūdan h-,1
+DMX-L19_mptf.conllu,ēstādan,unknown,gyāg ēstādan,1
+DMX-L19_mptf.conllu,ēstādan,transitive,handōxtan ēstādan,4
+DMX-L19_mptf.conllu,ēstādan,transitive,guftan ēstādan,10
+DMX-L19_mptf.conllu,ēstādan,transitive,nē kirdan ēstādan,1
+DMX-L19_mptf.conllu,ēstādan,transitive,dādan ēstādan,2
+DMX-L19_mptf.conllu,ēstādan,transitive,yaštan ēstādan,1
+DMX-L19_mptf.conllu,ēstādan,transitive,nē brēhēnīdan ēstādan,1
+DMX-L19_mptf.conllu,ēstādan,transitive,brēhēnīdan ēstādan,2
+DMX-L19_mptf.conllu,ēstādan,transitive,baxtan ēstādan,2
+DMX-L19_mptf.conllu,ēstādan,transitive,ōbārdan ēstādan,1
+DMX-L19_mptf.conllu,ēstādan,transitive,kirdan ēstādan,1
+DMX-L19_mptf.conllu,ēstādan,intransitive,nē madan1 ēstādan,2
+DMX-L19_mptf.conllu,ēstādan,intransitive,madan1 ēstādan,1
+DMX-L19_mptf.conllu,h-,unknown,ān h-,1
+DMX-L19_mptf.conllu,h-,transitive,dādan h-,2
+DMX-L19_mptf.conllu,h-,transitive,kirdan h-,1
+DMX-L19_mptf.conllu,h-,intransitive,nē madan1 h-,1
+DMX-L19_mptf.conllu,h-,intransitive,madan1 h-,1
+DMX-L19_mptf.conllu,h-,intransitive,nē šāyistan h-,1
+Dk5-B_mptf.conllu,ēstādan,transitive,tāšīdan ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,transitive,nibištan ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,transitive,paydāgēnīdan ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,transitive,guftan ēstādan,5
+Dk5-B_mptf.conllu,ēstādan,transitive,nihādan ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,transitive,dāštan ēstādan,2
+Dk5-B_mptf.conllu,ēstādan,transitive,nizārēnīdan ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,transitive,ārāstan ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,transitive,wizīdan ēstādan,2
+Dk5-B_mptf.conllu,ēstādan,transitive,nē guftan ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,transitive,nē dāštan ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,transitive,kirdan ēstādan,2
+Dk5-B_mptf.conllu,ēstādan,transitive,padīriftan ēstādan,2
+Dk5-B_mptf.conllu,ēstādan,transitive,abespurdan ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,transitive,abyōxtan ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,transitive,parwastan ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,transitive,gumēxtan ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,transitive,ālūdan ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,transitive,hangārdan ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,intransitive,madan1 ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,intransitive,māndan1 ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,intransitive,pādan1 ēstādan,1
+Dk5-B_mptf.conllu,ēstādan,intransitive,ēstādan ēstādan,1
+Dk5-B_mptf.conllu,h-,transitive,frēstīdan h-,2
+Dk5-B_mptf.conllu,h-,intransitive,waštan h-,2
+Dk5-B_mptf.conllu,h-,intransitive,nirfsīdan h-,1
+Dk5-B_mptf.conllu,h-,intransitive,ēstādan h-,1
+Dk5-B_mptf.conllu,būdan,intransitive,madan1 būdan,1
+Dk5-B_mptf.conllu,būdan,transitive,ōzadan būdan,1
+Dk5-B_mptf.conllu,būdan,unknown,tuwān būdan,1
+Dk7-B_mptf.conllu,būdan,transitive,dādan būdan,1
+Dk7-B_mptf.conllu,būdan,transitive,brēhēnīdan būdan,1
+Dk7-B_mptf.conllu,h-,intransitive,raftan1 h-,2
+Dk7-B_mptf.conllu,h-,intransitive,madan1 h-,1
+Dk7-B_mptf.conllu,h-,intransitive,būdan h-,1
+Dk7-B_mptf.conllu,h-,unknown,h- kay2,1
+Dk7-B_mptf.conllu,h-,transitive,ēraxtan1 h-,1
+Dk7-B_mptf.conllu,ēstādan,intransitive,dwāristan ēstādan,1
+Dk7-B_mptf.conllu,ēstādan,transitive,niwistan ēstādan,1
+Dk7-B_mptf.conllu,ēstādan,transitive,kirdan ēstādan,1
+Dk7-B_mptf.conllu,ēstādan,transitive,guftan ēstādan,1
+GA-K20_mptf.conllu,h-,transitive,dādan h-,1
+GA-K20_mptf.conllu,h-,transitive,xwāstan h-,1
+GBd-DH_mptf.conllu,ēstādan,transitive,dādan ēstādan,1
+GBd-TD1_mptf.conllu,būdan,unknown,nē tuwān būdan,6
+GBd-TD1_mptf.conllu,būdan,transitive,guftan būdan,3
+GBd-TD1_mptf.conllu,būdan,transitive,wisāndan būdan,1
+GBd-TD1_mptf.conllu,būdan,transitive,murnǰēnīdan būdan,1
+GBd-TD1_mptf.conllu,būdan,transitive,rāmēnīdan būdan,1
+GBd-TD1_mptf.conllu,būdan,transitive,bištan būdan,4
+GBd-TD1_mptf.conllu,būdan,transitive,kirdan būdan,2
+GBd-TD1_mptf.conllu,būdan,transitive,šnāyēnīdan būdan,4
+GBd-TD1_mptf.conllu,būdan,intransitive,hamkōxšīdan būdan,1
+GBd-TD1_mptf.conllu,būdan,intransitive,ǰastan būdan,1
+GBd-TD1_mptf.conllu,būdan,intransitive,bē taxtan būdan,1
+GBd-TD1_mptf.conllu,h-,unknown,zamān h-,1
+GBd-TD1_mptf.conllu,h-,unknown,ǰud h-,1
+GBd-TD1_mptf.conllu,h-,unknown,atazišn h-,1
+GBd-TD1_mptf.conllu,h-,unknown,ǰuxt h-,1
+GBd-TD1_mptf.conllu,h-,unknown,nām h-,1
+GBd-TD1_mptf.conllu,h-,unknown,h- čiyōn,1
+GBd-TD1_mptf.conllu,h-,unknown,kē h-,1
+GBd-TD1_mptf.conllu,h-,unknown,zan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,nē paywastan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,nē burzīdan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,ēstēnīdan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,gumārdan h-,2
+GBd-TD1_mptf.conllu,h-,transitive,kirdan h-,2
+GBd-TD1_mptf.conllu,h-,transitive,brēhēnīdan h-,3
+GBd-TD1_mptf.conllu,h-,transitive,nē gumēxtan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,baxtan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,xwāstan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,agārēnīdan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,kōxšīdan h-,2
+GBd-TD1_mptf.conllu,h-,transitive,burdan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,bastan h-,2
+GBd-TD1_mptf.conllu,h-,transitive,bē guftan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,bē nē dānistan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,handāxtan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,be winnārdan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,winnārdan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,nē kirdan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,guftan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,bōxtan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,tazēnīdan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,be pālūdan h-,2
+GBd-TD1_mptf.conllu,h-,transitive,wiškīdan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,dādan h-,4
+GBd-TD1_mptf.conllu,h-,transitive,nē dādan h-,2
+GBd-TD1_mptf.conllu,h-,transitive,bē dādan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,nē hištan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,be āhōgēnīdan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,nihuftan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,bē hištan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,windādan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,bē nē dādan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,gumēxtan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,sāxtan h-,1
+GBd-TD1_mptf.conllu,h-,transitive,ōzadan h-,1
+GBd-TD1_mptf.conllu,h-,intransitive,būdan h-,17
+GBd-TD1_mptf.conllu,h-,intransitive,rustan h-,7
+GBd-TD1_mptf.conllu,h-,intransitive,raftan1 h-,3
+GBd-TD1_mptf.conllu,h-,intransitive,nē raftan1 h-,1
+GBd-TD1_mptf.conllu,h-,intransitive,ēstādan h-,5
+GBd-TD1_mptf.conllu,h-,intransitive,hamēw būdan h-,1
+GBd-TD1_mptf.conllu,h-,intransitive,be hambūsīdan h-,1
+GBd-TD1_mptf.conllu,h-,intransitive,gumēxtan h-,1
+GBd-TD1_mptf.conllu,h-,intransitive,hamkōxšīdan h-,1
+GBd-TD1_mptf.conllu,h-,intransitive,nē būdan h-,2
+GBd-TD1_mptf.conllu,h-,intransitive,madan1 h-,8
+GBd-TD1_mptf.conllu,h-,intransitive,dwāristan h-,4
+GBd-TD1_mptf.conllu,h-,intransitive,ǰastan h-,4
+GBd-TD1_mptf.conllu,h-,intransitive,šudan h-,5
+GBd-TD1_mptf.conllu,h-,intransitive,taxtan h-,2
+GBd-TD1_mptf.conllu,h-,intransitive,waxšīdan h-,3
+GBd-TD1_mptf.conllu,h-,intransitive,āmadan h-,2
+GBd-TD1_mptf.conllu,h-,intransitive,nē tēzistan h-,1
+GBd-TD1_mptf.conllu,h-,intransitive,bē taxtan h-,2
+GBd-TD1_mptf.conllu,h-,intransitive,bē raftan1 h-,2
+GBd-TD1_mptf.conllu,h-,intransitive,waštan h-,1
+GBd-TD1_mptf.conllu,h-,intransitive,be murdan h-,1
+GBd-TD1_mptf.conllu,h-,intransitive,māndan1 h-,1
+GBd-TD1_mptf.conllu,h-,intransitive,be raftan1 h-,1
+GBd-TD1_mptf.conllu,h-,intransitive,nē bē waštan h-,1
+GBd-TD1_mptf.conllu,h-,intransitive,nē nišastan h- nē,1
+GBd-TD1_mptf.conllu,h-,intransitive,absistan h-,1
+GBd-TD1_mptf.conllu,h-,intransitive,ēstišn h-,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,nihādan ēstādan,5
+GBd-TD1_mptf.conllu,ēstādan,transitive,paymōxtan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,griftan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,baxtan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,paywastan ēstādan,12
+GBd-TD1_mptf.conllu,ēstādan,transitive,winnārdan ēstādan,4
+GBd-TD1_mptf.conllu,ēstādan,transitive,dādan ēstādan,7
+GBd-TD1_mptf.conllu,ēstādan,transitive,bastan ēstādan,6
+GBd-TD1_mptf.conllu,ēstādan,transitive,paydāgēnīdan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,nē guftan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,nē gumēxtan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,kirdan ēstādan,6
+GBd-TD1_mptf.conllu,ēstādan,transitive,abgandan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,paywastan ēstādan ham,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,dāštan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,xwārīdan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,gumēxtan ēstādan,2
+GBd-TD1_mptf.conllu,ēstādan,transitive,bē dādan ēstādan,2
+GBd-TD1_mptf.conllu,ēstādan,transitive,šustan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,pālūdan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,kirrēnīdan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,wirāstan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,burdan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,abrōxtan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,nihuftan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,warzīdan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,ārāstan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,transitive,padīriftan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,intransitive,nē pargūdan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,intransitive,widardan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,intransitive,rustan ēstādan,9
+GBd-TD1_mptf.conllu,ēstādan,intransitive,ǰastan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,intransitive,wisistan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,intransitive,taxtan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,intransitive,madan1 ēstādan,3
+GBd-TD1_mptf.conllu,ēstādan,intransitive,būdan ēstādan,5
+GBd-TD1_mptf.conllu,ēstādan,intransitive,nē madan1 ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,intransitive,xuftan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,intransitive,nišastan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,intransitive,ēstādan ēstādan,1
+GBd-TD1_mptf.conllu,ēstādan,unknown,ōy ēstādan,1
+MHD-MHDC_mptf.conllu,h-,transitive,hištan h-,1
+MHD-MHDC_mptf.conllu,h-,transitive,kirdan h-,1
+MHD-MHDC_mptf.conllu,h-,transitive,nē zadan h-,1
+MHD-MHDC_mptf.conllu,h-,transitive,zadan h-,1
+MHD-MHDC_mptf.conllu,h-,transitive,stadan h-,1
+MHD-MHDC_mptf.conllu,h-,intransitive,nišastan h-,1
+MHD-MHDC_mptf.conllu,h-,intransitive,be ēstādan h-,1
+MHD-MHDC_mptf.conllu,būdan,transitive,bē dādan būdan,1
+MHD-MHDC_mptf.conllu,būdan,transitive,kirdan būdan,1
+MHD-MHDC_mptf.conllu,būdan,transitive,be griftan būdan,1
+MHD-MHDC_mptf.conllu,būdan,transitive,dādan būdan,1
+MHD-MHDC_mptf.conllu,būdan,transitive,guftan būdan,2
+MHD-MHDC_mptf.conllu,ēstādan,transitive,rāyēnīdan ēstādan,1
+MHD-MHDC_mptf.conllu,ēstādan,transitive,kirdan ēstādan,3
+MHD-MHDC_mptf.conllu,ēstādan,transitive,guftan ēstādan,5
+MHD-MHDC_mptf.conllu,ēstādan,transitive,dāštan ēstādan,3
+MHD-MHDC_mptf.conllu,ēstādan,transitive,dādan ēstādan,1
+MHD-MHDC_mptf.conllu,ēstādan,transitive,framūdan ēstādan,1
+MHD-MHDC_mptf.conllu,ēstādan,intransitive,nē madan1 ēstādan,2
+MHD-MHDC_mptf.conllu,ēstādan,intransitive,madan1 ēstādan,2
+MYF-K20_mptf.conllu,ēstādan,transitive,nē kirdan ēstādan,3
+MYF-K20_mptf.conllu,ēstādan,transitive,nē xwārīdan ēstādan,1
+MYF-K20_mptf.conllu,ēstādan,transitive,nē yaštan ēstādan,1
+MYF-K20_mptf.conllu,ēstādan,transitive,nē dādan ēstādan,2
+MYF-K20_mptf.conllu,ēstādan,intransitive,madan1 ēstādan,2
+MYF-K20_mptf.conllu,ēstādan,intransitive,be būdan ēstādan,1
+MYF-K20_mptf.conllu,h-,intransitive,šudan h-,1
+MYF-K20_mptf.conllu,h-,intransitive,madan1 h-,1
+MYF-K20_mptf.conllu,h-,unknown,nē tuwān h-,1
+NM-K35_mptf.conllu,ēstādan,transitive,parwastan ēstādan,1
+NM-K35_mptf.conllu,ēstādan,transitive,guftan ēstādan,5
+NM-K35_mptf.conllu,ēstādan,transitive,dādan ēstādan,2
+NM-K35_mptf.conllu,ēstādan,transitive,dānistan ēstādan,1
+NM-K35_mptf.conllu,ēstādan,transitive,ārāstan ēstādan,1
+NM-K35_mptf.conllu,ēstādan,transitive,nimūdan ēstādan,1
+NM-K35_mptf.conllu,ēstādan,transitive,abāgēnīdan ēstādan,1
+NM-K35_mptf.conllu,ēstādan,transitive,āwištan ēstādan,1
+NM-K35_mptf.conllu,ēstādan,transitive,nibištan ēstādan,1
+NM-K35_mptf.conllu,ēstādan,transitive,kirdan ēstādan,1
+NM-K35_mptf.conllu,ēstādan,transitive,framūdan ēstādan,2
+NM-K35_mptf.conllu,ēstādan,transitive,nāmēnīdan ēstādan,1
+NM-K35_mptf.conllu,ēstādan,transitive,wizīrēnīdan ēstādan,2
+NM-K35_mptf.conllu,ēstādan,transitive,passandīdan ēstādan,1
+NM-K35_mptf.conllu,ēstādan,intransitive,nē madan1 ēstādan,1
+NM-K35_mptf.conllu,ēstādan,intransitive,wīdwarēnīdan ēstādan,1
+NM-K35_mptf.conllu,ēstādan,intransitive,āmadan ēstādan,1
+NM-K35_mptf.conllu,būdan,transitive,abzāyišn būdan,1
+NM-K35_mptf.conllu,būdan,transitive,paydāgēnīdan būdan,1
+NM-K35_mptf.conllu,būdan,unknown,āmārīhā būdan,1
+NM-K35_mptf.conllu,h-,transitive,be zādan h-,1
+NM-K35_mptf.conllu,h-,transitive,nibištan h-,1
+NM-K35_mptf.conllu,h-,transitive,guftan h-,1
+NM-K35_mptf.conllu,h-,transitive,nihādan h-,1
+NM-K35_mptf.conllu,h-,transitive,passandīdan h-,1
+NM-K35_mptf.conllu,h-,transitive,h- kirdan,1
+NM-K35_mptf.conllu,h-,transitive,kirdan h-,1
+NM-K35_mptf.conllu,h-,transitive,stūdan h-,1
+NM-K35_mptf.conllu,h-,transitive,ayāftan h-,1
+NM-K35_mptf.conllu,h-,transitive,rōšnēnīdan h-,1
+NM-K35_mptf.conllu,h-,transitive,bē nimūdan h-,1
+NM-K35_mptf.conllu,h-,transitive,rāyēnīdan h-,1
+NM-K35_mptf.conllu,h-,transitive,hamēw menīdan h-,1
+NM-K35_mptf.conllu,h-,transitive,dīdan h-,1
+NM-K35_mptf.conllu,h-,transitive,šnāxtan h-,1
+NM-K35_mptf.conllu,h-,transitive,menīdan h-,1
+NM-K35_mptf.conllu,h-,intransitive,be ēstādan h-,1
+NM-K35_mptf.conllu,h-,intransitive,nē saxtan1 h-,1
+NM-K35_mptf.conllu,h-,intransitive,abāyistan h-,2
+NM-K35_mptf.conllu,h-,intransitive,ham bē h- h-,1
+NM-K35_mptf.conllu,h-,intransitive,būdan h-,1
+NM-K35_mptf.conllu,h-,intransitive,madan1 h-,1
+NM-K35_mptf.conllu,h-,intransitive,waštan h-,1
+NM-K35_mptf.conllu,h-,unknown,axwāstār h-,3
+NM-K35_mptf.conllu,h-,unknown,čimīg h-,1
+NM-K35_mptf.conllu,h-,unknown,hamdādestān h-,2
+NM-K35_mptf.conllu,h-,unknown,sīrgān h-,1
+NM-K35_mptf.conllu,h-,unknown,hangird h-,1
+NM-K35_mptf.conllu,h-,unknown,kamranǰ h-,1
+NM-K35_mptf.conllu,h-,unknown,h- dēn,1
+NM-TD4a_mptf.conllu,ēstādan,transitive,parwastan ēstādan,1
+NM-TD4a_mptf.conllu,ēstādan,transitive,wizīrēnīdan ēstādan,2
+NM-TD4a_mptf.conllu,ēstādan,transitive,passandīdan ēstādan,1
+NM-TD4a_mptf.conllu,ēstādan,intransitive,āmadan ēstādan,1
+PY-Pt4_mptf.conllu,ēstādan,transitive,madan1 ēstādan,1
+PY-Pt4_mptf.conllu,ēstādan,transitive,dāštan ēstādan,1
+PY-Pt4_mptf.conllu,ēstādan,transitive,nimūdan ēstādan,1
+PY-Pt4_mptf.conllu,ēstādan,transitive,kirdan ēstādan,1
+PY-Pt4_mptf.conllu,ēstādan,transitive,nē kirdan ēstādan,1
+PY-Pt4_mptf.conllu,ēstādan,transitive,dōšīdan ēstādan,1
+PY-Pt4_mptf.conllu,ēstādan,intransitive,rustan ēstādan,1
+PY-Pt4_mptf.conllu,ēstādan,intransitive,madan1 ēstādan,1
+PY-Pt4_mptf.conllu,h-,transitive,hunīdan h-,1
+PY-Pt4_mptf.conllu,h-,transitive,dāštan h-,1
+PY-Pt4_mptf.conllu,h-,transitive,brēhēnīdan h-,2
+PY-Pt4_mptf.conllu,h-,transitive,tāšīdan h-,2
+PY-Pt4_mptf.conllu,h-,transitive,dādan h-,2
+PY-Pt4_mptf.conllu,h-,intransitive,madan1 h-,1
+RThQA-TD2_mptf.conllu,ēstādan,transitive,āwurdan ēstādan,1
+RThQA-TD2_mptf.conllu,ēstādan,transitive,nē paywastan ēstādan,1
+RĀF-TD2_mptf.conllu,ēstādan,intransitive,nē madan1 ēstādan,1
+RĀF-TD2_mptf.conllu,ēstādan,intransitive,madan1 ēstādan,2
+RĀF-TD2_mptf.conllu,ēstādan,intransitive,zādan ēstādan,1
+RĀF-TD2_mptf.conllu,ēstādan,transitive,gumārdan ēstādan,1
+RĀF-TD2_mptf.conllu,ēstādan,transitive,guftan ēstādan,1
+RĀF-TD2_mptf.conllu,h-,transitive,kirdan h-,3
+RĀF-TD2_mptf.conllu,h-,transitive,zādan h-,2
+RĀF-TD2_mptf.conllu,h-,transitive,gumārdan h-,1
+RĀF-TD2_mptf.conllu,būdan,transitive,dādan būdan,2
+WZ_K35.conllu,ēstādan,transitive,padistādan ēstādan,1
+WZ_K35.conllu,ēstādan,transitive,guftan ēstādan,1
+WZ_K35.conllu,ēstādan,transitive,dādan ēstādan,2
+WZ_K35.conllu,ēstādan,transitive,dāštan ēstādan,1
+WZ_K35.conllu,ēstādan,transitive,hambārdan ēstādan,1
+WZ_K35.conllu,ēstādan,transitive,zādan ēstādan,1
+WZ_K35.conllu,ēstādan,intransitive,būdan ēstādan,1
+WZ_K35.conllu,h-,intransitive,ēstīdan h-,1
+WZ_K35.conllu,h-,intransitive,bē būdan h-,2
+WZ_K35.conllu,h-,intransitive,ēstādan h-,1
+WZ_K35.conllu,h-,intransitive,āmadan h-,1
+WZ_K35.conllu,h-,intransitive,ham madan h-,1
+WZ_K35.conllu,h-,intransitive,madan h-,4
+WZ_K35.conllu,h-,intransitive,hamkārīhīdan h-,1
+WZ_K35.conllu,h-,intransitive,be zanīhistan h-,1
+WZ_K35.conllu,h-,intransitive,šudan h-,3
+WZ_K35.conllu,h-,intransitive,murdan h-,2
+WZ_K35.conllu,h-,intransitive,bē āmadan h-,1
+WZ_K35.conllu,h-,intransitive,būdan h-,6
+WZ_K35.conllu,h-,intransitive,waxšīdan h-,1
+WZ_K35.conllu,h-,intransitive,raftan h-,3
+WZ_K35.conllu,h-,intransitive,wazīdan h-,1
+WZ_K35.conllu,h-,intransitive,waštan h-,1
+WZ_K35.conllu,h-,intransitive,hamēw šudan h-,2
+WZ_K35.conllu,h-,intransitive,be nišastan h-,1
+WZ_K35.conllu,h-,intransitive,be tarsistan h-,1
+WZ_K35.conllu,h-,unknown,bālist h-,1
+WZ_K35.conllu,h-,unknown,h- tašt,1
+WZ_K35.conllu,h-,unknown,bastag h-,1
+WZ_K35.conllu,h-,unknown,nišastag h-,1
+WZ_K35.conllu,h-,unknown,āšnāg h-,1
+WZ_K35.conllu,h-,unknown,daxšag h-,1
+WZ_K35.conllu,h-,transitive,šnāzīdan h-,1
+WZ_K35.conllu,h-,transitive,āwurdan h-,1
+WZ_K35.conllu,h-,transitive,dīdan h-,1
+WZ_K35.conllu,h-,transitive,frēstādan h-,1
+WZ_K35.conllu,h-,transitive,wišādan h-,1
+WZ_K35.conllu,h-,transitive,ayāftan h-,1
+WZ_K35.conllu,h-,transitive,kōxšīdan h-,1
+WZ_K35.conllu,h-,transitive,nē ayāftan h-,1
+WZ_K35.conllu,h-,transitive,dāštan h-,1
+WZ_K35.conllu,h-,transitive,bē abgandan h-,1
+WZ_K35.conllu,h-,transitive,xwāstan h-,1
+WZ_K35.conllu,h-,transitive,baxtan h-,1
+WZ_K35.conllu,h-,transitive,be widārdan h-,1
+WZ_K35.conllu,h-,transitive,nē yaštan h-,1
+WZ_K35.conllu,būdan,transitive,paydāgēnīdan būdan,1
+WZ_K35.conllu,būdan,intransitive,šudan būdan,2
+WZ_K35.conllu,būdan,intransitive,madan būdan,1
+ZWY-K20_mptf.conllu,ēstādan,transitive,gumēxtan ēstādan,3
+ZWY-K20_mptf.conllu,ēstādan,transitive,rustan ēstādan,1
+ZWY-K20_mptf.conllu,ēstādan,transitive,ham gumēxtan ēstādan,1
+ZWY-K20_mptf.conllu,ēstādan,transitive,nišastan ēstādan,1
+ZWY-K20_mptf.conllu,ēstādan,transitive,kirdan ēstādan,3
+ZWY-K20_mptf.conllu,ēstādan,transitive,burdan ēstādan,1
+ZWY-K20_mptf.conllu,ēstādan,transitive,stūdan ēstādan,1
+ZWY-K20_mptf.conllu,ēstādan,transitive,srūdan ēstādan,1
+ZWY-K20_mptf.conllu,ēstādan,intransitive,xuftan ēstādan,1
+ZWY-K20_mptf.conllu,ēstādan,intransitive,madan1 ēstādan,1
+ZWY-K20_mptf.conllu,h-,transitive,nē guhrādan h-,2
+ZWY-K20_mptf.conllu,h-,transitive,guftan h-,1
+ZWY-K20_mptf.conllu,h-,transitive,xwandan h-,1
+ZWY-K20_mptf.conllu,h-,intransitive,h- h-,1
+ZWY-K20_mptf.conllu,h-,unknown,wehzīwišn h-,1
+ZWY-K43a_mptf.conllu,ēstādan,transitive,gumēxtan ēstādan,5
+ZWY-K43a_mptf.conllu,ēstādan,transitive,nišāstan ēstādan,1
+ZWY-K43a_mptf.conllu,ēstādan,transitive,kirdan ēstādan,3
+ZWY-K43a_mptf.conllu,ēstādan,transitive,burdan ēstādan,1
+ZWY-K43a_mptf.conllu,ēstādan,transitive,stūdan ēstādan,1
+ZWY-K43a_mptf.conllu,ēstādan,transitive,srūdan ēstādan,1
+ZWY-K43a_mptf.conllu,ēstādan,intransitive,rustan ēstādan,1
+ZWY-K43a_mptf.conllu,ēstādan,intransitive,xuftan ēstādan,1
+ZWY-K43a_mptf.conllu,ēstādan,intransitive,madan1 ēstādan,1
+ZWY-K43a_mptf.conllu,h-,transitive,nē winnārdan h-,1
+ZWY-K43a_mptf.conllu,h-,transitive,nē guhrādan h-,1
+ZWY-K43a_mptf.conllu,h-,transitive,guftan h-,1
+ZWY-K43a_mptf.conllu,h-,transitive,xwandan h-,1
+ZWY-K43a_mptf.conllu,h-,unknown,wehzīwišn h-,1
+ZWY-K43a_mptf.conllu,būdan,intransitive,būdan būdan,1
