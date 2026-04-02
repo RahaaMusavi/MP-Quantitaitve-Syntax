@@ -1,0 +1,50 @@
+ConjLemma_Before,Aux_Conj_Before,TopHeadLemma,Aux_TopHead,TopHeadDeprel,ConjLemma_After,Aux_Conj_After,Order,SentenceID,File
+-,-,dādan,istēd,ccomp,guftan,istēd,AfterHead,s44,DD-K35_mptf.conllu
+-,-,ēstādan,-,acl:relcl,āstardan,ēstēd,AfterHead,s172,DD-K35_mptf.conllu
+-,-,kirdan,ēstēd,root,payrāstan,-,AfterHead,s224,DD-K35_mptf.conllu
+-,-,wārīdan,-,advcl,kirdan,ēstēd,AfterHead,s241,DD-K35_mptf.conllu
+-,-,winnārdan,būd,root,kirdan,hēnd,AfterHead,s190,DMX-L19_mptf.conllu
+-,-,frāxīh xwāstan|xwāstan,-,root,rāyēnīdan,-,AfterHead,s11,Dk5-B_mptf.conllu
+-,-,tāšīdan,ēstād,root,payrāstan,-,AfterHead,s12,Dk5-B_mptf.conllu
+-,-,wizīdan,-,acl:relcl,padīriftan,ēstēd,AfterHead,s358,Dk5-B_mptf.conllu
+-,-,kirdan,-,root,fragānēnīdan,-,AfterHead,s23,Dk7-B_mptf.conllu
+-,-,padīriftan,-,root,kirdan,-,AfterHead,s57,Dk7-B_mptf.conllu
+-,-,madan1,-,root,winnārdan,-,AfterHead,s97,Dk7-B_mptf.conllu
+-,-,ēstādan,-,root,raftan1,hēnd,AfterHead,s252,GBd-TD1_mptf.conllu
+-,-,dānistan,hād,advcl,handāxtan,hād,AfterHead,s434,GBd-TD1_mptf.conllu
+-,-,kōstan,-,root,gumēxtan,-,AfterHead,s531,GBd-TD1_mptf.conllu
+-,-,ēstādan,-,root,winnārdan,hēnd,AfterHead,s563,GBd-TD1_mptf.conllu
+-,-,ōbastan,-,ccomp,bōxtan,hēnd,AfterHead,s663,GBd-TD1_mptf.conllu
+-,-,wispurdan,-,root,kirdan|nišāstag kirdan,-,AfterHead,s776,GBd-TD1_mptf.conllu
+-,-,dādan,hē,root,hištan,hē,AfterHead,s864,GBd-TD1_mptf.conllu
+-,-,rāmēnīdan,bawēd,root,bištan,-,AfterHead,s1517,GBd-TD1_mptf.conllu
+-,-,rāmēnīdan,-,root,bištan,bawēd,AfterHead,s1530,GBd-TD1_mptf.conllu
+-,-,rāmēnīdan,-,root,bištan,bawēd,AfterHead,s1572,GBd-TD1_mptf.conllu
+-,-,rāmēnīdan,-,root,bištan,bawēd,AfterHead,s1596,GBd-TD1_mptf.conllu
+-,-,rāmēnīdan,-,root,bištan,bawēd,AfterHead,s1631,GBd-TD1_mptf.conllu
+-,-,guftan,abāyēd,acl:relcl,nihādan,ēstēd,AfterHead,s1724,GBd-TD1_mptf.conllu
+-,-,nibastan,-,root,nišastan,ēstēd,AfterHead,s1874,GBd-TD1_mptf.conllu
+-,-,guftan,-,advcl,zadan,hē,AfterHead,s132,MHD-MHDC_mptf.conllu
+-,-,kirdan,ēstēd,acl:relcl,xwārīdan,ēstēd,AfterHead,s61,MYF-K20_mptf.conllu
+-,-,yaštan,ēstēd,acl:relcl,dādan,ēstēd,AfterHead,s63,MYF-K20_mptf.conllu
+-,-,yaštan,ēstēd,acl:relcl,kirdan,ēstēd,AfterHead,s63,MYF-K20_mptf.conllu
+šnāxtan,-,dānistan,ēstēd,root,-,-,BeforeHead,s17,NM-K35_mptf.conllu
+-,-,nibištan,-,root,ārāstan,ēstēd,AfterHead,s19,NM-K35_mptf.conllu
+-,-,uskārdan,-,advcl,āwištan,ēstē,AfterHead,s114,NM-K35_mptf.conllu
+-,-,yaštan,-,root,kirdan,-,AfterHead,s185,NM-K35_mptf.conllu
+burzīdan,-,stūdan,hē,advcl,-,-,BeforeHead,s186,NM-K35_mptf.conllu
+-,-,hištan,-,advcl,madan1,ēstēd,AfterHead,s201,NM-K35_mptf.conllu
+padīriftan,-,rāyēnīdan,hē,root,-,-,BeforeHead,s210,NM-K35_mptf.conllu
+gumārdan,-,passandīdan,ēstēnd,acl:relcl,-,-,BeforeHead,s312,NM-K35_mptf.conllu
+-,-,framūdan,-,advcl,kirdan,-,AfterHead,s327,NM-K35_mptf.conllu
+gumārdan,-,passandīdan,ēstēnd,acl:relcl,-,-,BeforeHead,s311,NM-TD4a_mptf.conllu
+-,-,brēhēnīdan,ham,ccomp,tāšīdan,ham,AfterHead,s1417,PY-Pt4_mptf.conllu
+-,-,brēhēnīdan,hē,root,tāšīdan,hē,AfterHead,s1445,PY-Pt4_mptf.conllu
+āwurdan,ēstēd,yaštan,-,advcl,-,-,BeforeHead,s2,RThQA-TD2_mptf.conllu
+madan1|pad tan madan,ēstēd,dādan,-,_,-,-,BeforeHead,s93,RĀF-TD2_mptf.conllu
+madan1|pad tan madan,ēstēd,dādan,-,advcl,-,-,BeforeHead,s99,RĀF-TD2_mptf.conllu
+-,-,xwāstan,hēnd,csubj,baxtan,hēnd,AfterHead,443,WZ_K35.conllu
+-,-,dīdan,-,root,rustan,ēstād,AfterHead,ZWY-K20-s31,ZWY-K20_mptf.conllu
+-,-,kirdan,ēstēd,csubj,srūdan,ēstēd,AfterHead,ZWY-K20-s146,ZWY-K20_mptf.conllu
+-,-,dīdan,-,root,rustan,ēstēd,AfterHead,ZWY-K43a-s32,ZWY-K43a_mptf.conllu
+-,-,kirdan,ēstēd,dislocated,srūdan,ēstēd,AfterHead,ZWY-K43a-s145,ZWY-K43a_mptf.conllu
